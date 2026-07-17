@@ -1,5 +1,6 @@
 ---
 title: Home
+hideDate: true
 ---
 
 # Hi, I'm Yolanda.

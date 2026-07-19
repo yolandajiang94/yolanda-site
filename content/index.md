@@ -7,7 +7,7 @@ hideDate: true
 
 Welcome to my digital garden 🌿
 
-I'm documenting my career, thinking, and life.
+I'm documenting my work, thinking, and life.
 
 - [[Career]]
 - [[Thinking]]

@@ -2,11 +2,7 @@
 title: Career
 ---
 
----
-
-# Career
-
-Welcome to my career notes.
+Notes from my work in Industrial B2B sales.
 
 ## Explore
 

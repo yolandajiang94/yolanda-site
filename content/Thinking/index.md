@@ -6,5 +6,5 @@ Thoughts on myself and life.
 
 ## Explore
 
-- [[Self]]
-- [[Notes]]
+- [Self](/thinking/self/)
+- [Notes](/thinking/notes/)

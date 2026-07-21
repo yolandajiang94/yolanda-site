@@ -5,11 +5,8 @@ hideDate: true
 
 # Hi, I'm Yolanda.
 
-Welcome to my digital garden 🌿
+**Industrial B2B Sales**
 
-I'm documenting my work, thinking, and life.
+Thinking • Life
 
-- [[Career]]
-- [[Thinking]]
-- [[Living]]
-- [[About]]
+A place where I document my work, reflections, and everyday life.

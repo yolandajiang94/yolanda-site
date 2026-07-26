@@ -1,10 +1,15 @@
 ---
 title: Career
 ---
+---
+title: Career
+---
 
-Notes from my work in Industrial B2B sales.
+# Career
+
+Notes from my experience in Industrial B2B sales, including customer communication, project experience, and reflections on working with industrial products and global clients.
 
 ## Explore
 
-- [Customer Communication](/career/customer-communication/)
-- [Notes](/career/notes/)
+- [[Customer Stories]]
+- [[Industrial B2B Sales]]

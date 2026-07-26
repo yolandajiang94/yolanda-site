@@ -1,9 +1,14 @@
 ---
 title: Customer Stories
 ---
+---
+title: Customer Stories
+---
 
 # Customer Stories
 
-Notes from my experience working with industrial customers, focusing on project communication, problem solving, and long-term collaboration.
+How I apply my approaches in real industrial projects.
+
+Stories from customer interactions and projects, focusing on communication, decision making, problem solving, and long-term collaboration with industrial clients.
 
 ## Articles

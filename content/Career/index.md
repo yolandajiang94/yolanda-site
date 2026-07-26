@@ -8,5 +8,5 @@ Notes from my experience in Industrial B2B sales, including customer communicati
 
 ## Explore
 
-- [[Customer Stories]]
-- [[Industrial B2B Sales]]
+- [[Career/Customer Stories]] 
+- [[Career/Industrial B2B Sales]]

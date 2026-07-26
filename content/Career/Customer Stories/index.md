@@ -1,9 +1,7 @@
 ---
 title: Customer Stories
 ---
----
-title: Customer Stories
----
+--
 
 # Customer Stories
 

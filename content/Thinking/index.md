@@ -2,9 +2,6 @@
 title: Thinking
 ---
 
-Thoughts on myself and life.
+---
 
-## Explore
-
-- [Self](/thinking/self/)
-- [Notes](/thinking/notes/)
+Reflections on personal growth, decision making, relationships, and the process of understanding myself and the world.

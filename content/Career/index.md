@@ -3,4 +3,4 @@ title: Career
 ---
 
 
-Notes from my experience in Industrial B2B sales, including customer communication, project experience, and reflections on working with industrial products and global clients.
+Notes on my professional journey in Industrial B2B sales, including career reflections, customer experiences, and insights developed through working with industrial products and global clients.

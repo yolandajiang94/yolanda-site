@@ -2,4 +2,4 @@
 title: Living
 ---
 
-Notes on health, food, travel, and everyday life.
+Observations on lifestyle, personal spaces, and the way I experience everyday life.

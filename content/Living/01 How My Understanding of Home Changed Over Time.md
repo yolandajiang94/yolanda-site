@@ -122,6 +122,8 @@ For the first time, I realized:
 
 ## **Finding a Place That Feels Like Home**
 
+<img src="/images/balcony-view.jpg" width="800">
+
 In April 2026, I moved into a community that I had been looking forward to for a long time.
 
 Looking back, this was the first time after nearly ten years in Shenzhen that I truly felt the comfort and openness that a home could bring.

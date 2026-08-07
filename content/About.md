@@ -4,6 +4,9 @@ title: About
 
 Hi, I'm Yolanda.
 
+<img src="images/about.jpg" width="600">
+
+
 I'm an Industrial B2B sales professional based in Shenzhen, China.
 
 This is my digital garden.

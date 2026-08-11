@@ -46,9 +46,11 @@ We stay because it is the choice we already know.
 
 ## **Discovering a Different Relationship With a City**
 
-After leaving Shenzhen temporarily and staying with a friend in Huizhou, I started experiencing the surrounding cities in a different way.
+After temporarily leaving Shenzhen and making Huizhou my temporary base, I started seeing the surrounding cities from a different perspective.
 
-One weekend, I spent several days exploring Huizhou city by myself.
+One weekend, I visited Huicheng District, the urban center of Huizhou, with my friend.
+
+We originally planned to spend only the weekend there. After my friend returned on Sunday, I decided to stay one more day and explore the city at my own pace.
 
 I walked around different areas, searched for restaurants, took buses and taxis, and visited places that I had always wanted to see but never actually made time for.
 

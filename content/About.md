@@ -7,7 +7,7 @@ Hi, I'm Yolanda.
 <img src="images/about.jpg" width="600">
 
 
-I'm an Industrial B2B sales professional based in Shenzhen, China.
+I’m an Industrial B2B sales professional who spent nearly a decade in Shenzhen and is now based in the Greater Bay Area, China.
 
 This is my digital garden.
 

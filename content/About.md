@@ -2,14 +2,12 @@
 title: About
 ---
 
-Hi, I'm Yolanda.
+Hi, I'm Yolanda. This is my digital garden.
 
 <img src="images/about.jpg" width="600">
 
 
 I’m an Industrial B2B sales professional who spent nearly a decade in Shenzhen and is now based in the Greater Bay Area, China.
-
-This is my digital garden.
 
 I write about Industrial B2B sales, continuous learning, personal reflections, and everyday life.
 

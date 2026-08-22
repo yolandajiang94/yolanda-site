@@ -1,4 +1,3 @@
-# **From Accessory Request to Application-Based Solution**
 
 ## **Customer Background**
 

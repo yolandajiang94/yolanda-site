@@ -1,4 +1,3 @@
-# **A Step-by-Step Approach to Troubleshooting a Low-Current Testing Issue**
 
 ## **Background**
 

@@ -1,4 +1,3 @@
-# **Staying With a Long-Cycle B2B Opportunity**
 
 ## **What Persistence, Timing, and Changing Information Taught Me About Industrial Sales**
 

@@ -1,4 +1,3 @@
-# **When the Customer Is in a Hurry, but the Process Isn't Ready**
 
 Some B2B projects are difficult because the technical requirements are complicated.
 

@@ -1,4 +1,3 @@
-# **Redefining My Value at Work**
 
 For many years, I believed that my greatest strengths at work were being careful, patient, and willing to take responsibility.
 

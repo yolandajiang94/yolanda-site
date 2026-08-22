@@ -1,4 +1,3 @@
-# **From Having Experience to Understanding It**
 
 For years, I knew that experience was something worth reflecting on.
 

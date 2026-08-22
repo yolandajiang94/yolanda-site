@@ -1,4 +1,3 @@
-# From Learning Sales Techniques to Understanding the Profession
 
 _Rethinking What Business Development Means After Five Years in Industrial B2B Sales_
 

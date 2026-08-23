@@ -1,118 +1,96 @@
 
-A research customer once contacted me about two battery testing units that seemed to behave differently from the others in their lab.
+## **Customer Background**
 
-They had eight units of the same model. According to the customer, Device 05 and Device 06 showed abnormal behavior during very low-current discharge tests, while the other units appeared to work normally.
+A university research laboratory had been using battery testing systems purchased at different stages for its research activities.
 
-At a set current of **2 μA**, the actual output from the two units was only around **0–1.4 μA**. At **4 μA**, the output was still only around **1.1 μA**.
+The laboratory had purchased a new battery testing system from us in October of the previous year. In May, the customer contacted me again with a new request:
 
-From the customer's perspective, the question was straightforward:
+**“We are planning to purchase 18650 and 21700 cylindrical cell holders for our existing machine.”**
 
-**If the other units were working normally, why were these two different?**
+At first, this appeared to be a straightforward accessory inquiry.
 
-At that point, however, the comparison with the other units was mainly based on the customer's observation. We did not yet have complete raw data from all eight units under the same test conditions, so there was not enough evidence to conclude that Device 05 and Device 06 had a hardware problem.
+However, when I reviewed the configuration of the system purchased the previous October, I noticed that it had already been equipped for cylindrical cell testing, including suitable holders and cable connections.
 
-## **Going Back to the Specification**
+That raised a question: **Why did the customer need another set of cylindrical cell holders?**
 
-My first reaction was concern.
+What initially looked like a simple accessory request eventually led to a more detailed discussion about the customer's actual testing environment and the different generations of equipment in their laboratory.
 
-These were relatively new units, and the customer was reporting that two of them behaved differently from the others. I immediately contacted our after-sales and R&D teams, hoping to understand whether we were dealing with an equipment issue.
+---
 
-The technical team first asked for more test information and data. As the discussion continued, I went back to check the product specification.
+## **Looking Beyond the Initial Request**
 
-That changed how I looked at the problem.
+Since the recently purchased system was already configured for cylindrical cell testing, I did not immediately treat the request as a simple accessory reorder.
 
-The lowest current range for this model was:
+Instead, I asked the customer about the actual testing setup and how the new holders would be used.
 
-**5 μA–1 mA**
+Through this discussion, I learned that the holders were not intended for regular testing directly on the battery tester. The customer planned to place them inside an environmental chamber for temperature-controlled testing.
 
-This specification had also been provided to the customer during the quotation stage.
+The environmental chamber was supplied by another manufacturer, which meant the fixture design also needed to consider the customer's external testing environment.
 
-That meant the customer's initial test points of **2 μA and 4 μA were both below the specified current range**.
+---
 
-So the question needed to be reframed.
+## **Considering the Customer's Actual Testing Environment**
 
-Instead of asking:
+After understanding the application scenario, I further confirmed the installation requirements, including:
 
-Why can't these two units work properly at 2 μA?
+· The internal dimensions of the customer's environmental chamber;
 
-we first needed to ask:
+· The available space for fixture placement;
 
-Can a result below the specified range be used as evidence of a hardware problem?
+· The required testing channel configuration.
 
-Not yet.
+Based on these details, I recommended a suitable fixture panel configuration that could fit inside the customer's existing chamber while meeting their testing requirements.
 
-I explained the specification to the customer and suggested testing again within the specified range of **5 μA and above**.
+This ensured that the proposed solution was not only electrically suitable, but also practical for the customer's actual laboratory setup.
 
-If the units behaved normally there, the original observation could be explained by testing outside the specified range. If the abnormal behavior remained, we would have a stronger basis for further investigation.
+---
 
-## **The Problem Remained Within the Specified Range**
+## **Identifying Different Requirements from Multiple Equipment Generations**
 
-The customer then ran additional tests at:
+During the configuration process, the customer provided photos of two different cable types and requested matching confirmation.
 
-· **5 μA** 
+After reviewing the photos, I noticed that one cable type was different from the configuration of the system purchased the previous year.
 
-· **6 μA** 
+This indicated that the customer was actually preparing fixtures for two different battery testing systems:
 
-· **7 μA** 
+· One system purchased recently, with its existing compatible cable configuration;
 
-This time, they also provided the corresponding raw NDA data.
+· Another older system purchased many years ago, requiring a different cable solution.
 
-The results showed that the problem had not disappeared.
+To confirm the second system, I requested the equipment identification label from the customer, including the model information and serial number.
 
-At **5 μA**, both charge and discharge current outputs were very low. At **6 μA**, the discharge output was noticeably lower than the charge output. At **7 μA**, charge and discharge became much closer to each other, although the actual current was still slightly below the target.
+With this information, I was able to verify the historical equipment configuration internally and confirm whether the corresponding cable solution was still available.
 
-This was an important change in the case.
+---
 
-The earlier **2 μA and 4 μA** results were outside the specification, but now the customer had reproduced abnormal behavior **within the specified operating range** and provided actual test data.
+## **Result**
 
-The earlier explanation was no longer enough.
+Through continuous communication and detailed requirement clarification, we identified that the customer's request involved multiple systems and different application conditions.
 
-I sent the new data back to our technical team, and the investigation continued.
+The final solution considered:
 
-## **Using 1 mA as a Diagnostic Test**
+· The customer's temperature-controlled testing environment;
 
-Rather than immediately concluding that the two units had a hardware failure, our R&D engineer suggested another test:
+· The installation limitations of their existing environmental chamber;
 
-**Try a higher current, such as 1 mA.**
+· The compatibility requirements of both recent and historical testing systems.
 
-The customer's actual application still involved very low currents. The purpose of testing at 1 mA was not to change their application requirements.
+By understanding the complete application scenario rather than only the initial accessory request, we helped the customer extend the capability of their existing laboratory setup.
 
-It was a diagnostic step.
+---
 
-We wanted to answer a more basic question:
+## **Key Takeaways**
 
-**Could the equipment charge and discharge normally at a higher current?**
+In industrial equipment sales, customer requests are often only the starting point.
 
-If the same abnormal behavior appeared at 1 mA, the possibility of a broader hardware problem would become stronger.
+A request for a specific accessory may involve:
 
-But if the equipment worked normally at 1 mA and the abnormal behavior remained concentrated at the very low-current end, we could narrow the investigation further.
+· Different equipment configurations;
 
-The customer ran the additional tests and provided another set of NDA data.
+· Additional testing environments;
 
-At **1 mA**, the units performed normally and did not show the same behavior seen at the very low-current levels.
+· Historical products purchased years ago;
 
-This did not prove that every part of the hardware was completely fault-free, but it changed the direction of the investigation.
+· Compatibility considerations across multiple systems.
 
-The likelihood of a general hardware failure became lower, and our R&D team began focusing more on **low-current accuracy and calibration**.
-
-## **Narrowing Down the Problem**
-
-By this point, we still did not have a final root-cause conclusion. Further calibration and verification were being considered.
-
-But the problem had become much clearer than when it first arrived.
-
-It started with:
-
-Two units behave abnormally at 2 μA and 4 μA. Are they defective?
-
-Checking the specification showed that those test points were below the equipment's specified range.
-
-Testing again at **5 μA, 6 μA, and 7 μA** then showed that abnormal behavior still existed within the specified range, so the investigation had to continue.
-
-Finally, the **1 mA diagnostic test** showed that the equipment could operate normally at a higher current, allowing the investigation to move away from a general hardware failure and toward **low-current accuracy and calibration**.
-
-There was no single moment when the answer suddenly became obvious.
-
-The issue became clearer through a series of smaller questions:
-
-**What do we actually know? Does the current evidence still support our previous explanation? And what can we test next to narrow the problem down further?**
+The salesperson's role is not only to provide a product quotation, but also to understand the customer's actual workflow, identify hidden requirements, and coordinate internally to provide a practical solution.

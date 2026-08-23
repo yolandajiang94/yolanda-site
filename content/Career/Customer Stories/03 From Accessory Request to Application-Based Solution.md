@@ -1,29 +1,29 @@
 
 ## **Customer Background**
 
-A university research laboratory had been using battery testing systems purchased at different stages for their research activities.
+A university research laboratory had been using battery testing systems purchased at different stages for its research activities.
 
-After purchasing a new battery testing system, the laboratory later contacted us to purchase additional cylindrical cell fixtures for 18650 and 21700 cylindrical cell testing.
+The laboratory had purchased a new battery testing system from us in October of the previous year. In May, the customer contacted me again with a new request:
 
-The initial request appeared to be a straightforward accessory inquiry.
+**“We are planning to purchase 18650 and 21700 cylindrical cell holders for our existing machine.”**
 
-However, further discussion revealed a more complex application requirement involving different testing environments and multiple generations of equipment.
+At first, this appeared to be a straightforward accessory inquiry.
+
+However, when I reviewed the configuration of the system purchased the previous October, I noticed that it had already been equipped for cylindrical cell testing, including suitable holders and cable connections.
+
+That raised a question: **Why did the customer need another set of cylindrical cell holders?**
+
+What initially looked like a simple accessory request eventually led to a more detailed discussion about the customer's actual testing environment and the different generations of equipment in their laboratory.
 
 ---
 
 ## **Looking Beyond the Initial Request**
 
-When receiving the request, I first reviewed the customer's existing configuration.
+Since the recently purchased system was already configured for cylindrical cell testing, I did not immediately treat the request as a simple accessory reorder.
 
-The battery testing system purchased the previous year had already been configured for both cylindrical cells and pouch cells, including the corresponding cable connections.
+Instead, I asked the customer about the actual testing setup and how the new holders would be used.
 
-Therefore, I wanted to better understand why additional cylindrical cell fixtures were required.
-
-Instead of directly recommending a standard accessory, I asked about the customer's actual testing setup and intended usage.
-
-Through this discussion, I learned that the new fixtures were not intended for regular testing directly on the battery tester.
-
-The customer planned to place the fixtures inside an environmental chamber for temperature-controlled testing.
+Through this discussion, I learned that the holders were not intended for regular testing directly on the battery tester. The customer planned to place them inside an environmental chamber for temperature-controlled testing.
 
 The environmental chamber was supplied by another manufacturer, which meant the fixture design also needed to consider the customer's external testing environment.
 

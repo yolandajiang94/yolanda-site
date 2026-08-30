@@ -1,141 +1,132 @@
-# **From Customer Language to Product Language**
 
-## **How I Learned to Translate Application Requirements into Practical Solutions**
+_Why matching a customer requirement sometimes means looking beyond feature names_
 
-In industrial B2B sales, customers rarely describe their needs using product terminology.
+In technical B2B sales, customers do not always describe their requirements using the same terminology that appears in a supplier's product documentation.
 
-They usually explain:
+They often describe what they want the equipment to do, while internally we think in terms of modes, functions, and specifications.
 
-· what they want to test;
+I encountered this in a project where a customer's request did not immediately match any familiar feature name. The capability existed, but first I had to connect the customer's application language to the way we described the product internally.
 
-· what application they are working on;
+## **Two Related Requirements**
 
-· what performance they expect.
+The customer was evaluating a high-power testing system and added two requirements as the project developed.
 
-However, companies usually organize products through:
+The first requirement was **ramp control**. The customer wanted to define start and end points and a ramp rate for both charge and discharge. Their preferred mode was **Constant Power**, but they also asked whether the same behavior could be achieved in **Constant Current mode** if Constant Power ramping was not supported.
 
-· specifications;
+The second requirement was an:
 
-· functions;
+**“arbitrary load profile, with high time resolution”**
 
-· technical features.
+The customer wanted to define the exact shape of a load profile to simulate a real application load. Power mode was preferred, although current mode would also be useful, and both charge and discharge were required.
 
-The challenge for a sales engineer is not only understanding either side.
+Importantly, the customer connected the two requirements themselves: if an arbitrary load profile was possible, they could define the ramp within that profile and use it instead of a dedicated constant-power ramp function.
 
-It is building the connection between them.
+That distinction mattered. Taken together, the two requests pointed to a broader application need: the customer wanted flexible control over how current or power changed over time, rather than being tied to one specific implementation.
 
----
+**The equipment needed to follow a user-defined current or power curve over time.**
 
-## **When the Same Requirement Means Different Things**
+## **What Did “Profile” Mean in Our Product?**
 
-During one project with an overseas industrial customer, the customer introduced several technical requirements for a high-power testing system.
+When I brought the requirement to our pre-sales engineer, I initially asked:
 
-At first, the discussion became challenging because the customer described their requirement from an application perspective, while our internal team analyzed it from a product function perspective.
+“Can our system import a profile?”
 
-Both sides were discussing the same goal, but using different languages.
+His response was essentially:
 
-This created a risk:
+“I'm not sure what the customer means by ‘profile.’ My understanding would be a step file.”
 
-A requirement might appear unsupported simply because the terminology did not match.
+That exposed the real gap.
 
----
+The customer had described the application clearly, but **“Arbitrary Load Profile” was not the name of a function we used internally**.
 
-## **Looking Beyond the Terminology**
+Instead of continuing to discuss the word “profile,” I described the behavior more concretely:
 
-Instead of focusing only on whether a specific function name existed, I started by asking:
+0 s → 100 W  
+0.1 s → 150 W  
+0.2 s → 120 W  
+0.3 s → 200 W
 
-**What is the customer actually trying to achieve?**
+In other words, the customer wanted to import a time-power curve and have the equipment operate according to that curve.
 
-I continued clarifying:
+I then asked whether this corresponded to our **Simulation** function.
 
-· What testing scenario are they trying to simulate?
+The engineer confirmed that it did.
 
-· What kind of behavior do they need the system to reproduce?
+The mapping was now clear:
 
-· What is the purpose behind this requirement?
+**Arbitrary Load Profile**  
+→ user-defined current or power curve over time  
+→ execution of that curve to simulate a real load  
+→ **Simulation**
 
-Through this process, I realized that my initial understanding of the customer's terminology was incomplete.
+Nothing new had been added to the product. The capability had been there all along. The customer and our internal product documentation simply described it differently.
 
-The customer's requirement was not necessarily about a specific feature name.
+## **Mapping the Name Was Only the First Step**
 
-It was about achieving a certain application behavior.
+Identifying Simulation was not enough, because the customer had also specified **high time resolution**.
 
----
+I therefore checked another practical boundary: could the Simulation profile execute at **50 ms intervals**?
 
-## **Mapping Customer Needs to Product Capabilities**
+After confirming this internally, the answer was yes for the **100 Hz systems** we were discussing.
 
-After understanding the customer's real objective, I worked with our internal team to evaluate the available product capabilities.
+The relevant Simulation capability also supported:
 
-Instead of asking:
+· Current and Power modes
 
-"Do we have exactly this function?"
+· Continuous switching between charge and discharge
 
-I changed the question to:
+· Custom load profiles
 
-"Can our existing capabilities achieve the customer's actual goal?"
+I could then give the customer a more precise answer.
 
-This shift helped us identify that an existing product function could support the customer's application requirement, even though the terminology was different.
+Voltage and current ramping were supported, while a dedicated **Constant Power Ramp** function was not.
 
-The project was able to continue because we focused on the underlying need rather than the surface wording.
+For the arbitrary load profile requirement, however, **Simulation** could import a custom current or power profile and execute the defined curve. For the 100 Hz systems under discussion, the profile could use a minimum interval of 50 ms.
 
----
+Because the customer had already said that a custom profile could be used to define the ramp itself, Simulation could also provide an alternative way to achieve that application goal.
 
-## **The Role of a Sales Engineer**
+## **Unsupported Feature Does Not Always Mean Unsupported Behavior**
 
-This experience strengthened my understanding of the role of a sales engineer.
+This distinction became the most useful part of the case.
 
-A sales engineer is not simply a person who passes customer requests to engineers.
+The product did **not** have a dedicated Constant Power Ramp function. That remained unsupported.
 
-The real value is translation.
+But the behavior the customer wanted to achieve could potentially be implemented through an existing capability.
 
-Customers speak in terms of:
+Those are different judgments:
 
-· applications;
+**Do we have a feature with this name?**
 
-· testing objectives;
+and
 
-· expected results.
+**Can the product perform the behavior the customer needs?**
 
-Engineers think in terms of:
+If I had only passed the customer's wording internally—
 
-· product functions;
+“Do we support Arbitrary Load Profile?”
 
-· technical limitations;
+—the answer would have depended heavily on what each person understood by “profile.”
 
-· system capabilities.
+Describing the application behavior made the question much more concrete:
 
-A good sales engineer helps both sides understand each other and find a practical solution.
+Can the system import a time-based current or power curve and operate according to that curve?
 
----
+That question could be mapped directly to an existing product capability.
 
-## **What I Learned**
+## **Matching Behavior to Capability**
 
-Earlier in my career, when customers requested unfamiliar functions, my first reaction was often:
+This case changed how I think about requirement matching in technical sales.
 
-"Does our product support this?"
+Sometimes the customer has already explained the application well. The missing step is not another round of customer questioning. It is translating that application into the product's own capability structure.
 
-Over time, I learned to ask a deeper question:
+The path is:
 
-"What problem is the customer actually trying to solve?"
+**Customer Language → Application Behavior → Product Capability**
 
-This change in thinking has improved the way I handle technical discussions.
+Different terminology does not necessarily mean different capability.
 
-My approach today is:
+And a missing feature name does not necessarily mean the customer's intended behavior is unsupported.
 
-**Understand the customer's objective**
+Before deciding whether a requirement can be met, I need to look beyond what the customer calls it and ask a more practical question:
 
-↓
-
-**Break down the requirement**
-
-↓
-
-**Translate application needs into technical requirements**
-
-↓
-
-**Match available product capabilities**
-
-↓
-
-**Find the most practical solution**
+**What does the customer need the product to do, and which of our existing capabilities can actually do it?**

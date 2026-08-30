@@ -1,157 +1,156 @@
-# **From Specification Matching to Requirement Understanding**
 
-## **How I Learned to Look Beyond Technical Parameters in Industrial B2B Sales**
+_When a specification gap looks obvious, the harder question may be whether the two specifications are describing the same capability._
 
-In technical sales, customers often communicate their needs through specifications.
+In technical B2B sales, specification matching often seems straightforward: take the customer's requirement, find the corresponding parameter in the datasheet, and compare the numbers.
 
-They may provide:
+But that only works when the two parameters actually mean the same thing in the customer's application.
 
-· voltage requirements;
+I learned this through a battery testing project where the mismatch looked obvious from the beginning—and still took several rounds of clarification before I could trust the conclusion.
 
-· current requirements;
+## **The Numbers Seemed to Give Me the Answer**
 
-· response time;
+The customer was looking for a high-power battery cycler. Their main requirements for voltage, current, power, and channel count could be covered by one of our standard systems.
 
-· accuracy;
+Then they added a more demanding requirement:
 
-· performance targets.
+“We want to test very dynamic and fast profiles so we need a step time of <10ms.”
 
-For sales engineers, the natural reaction is to compare these numbers with product specifications.
+I went back to the datasheet.
 
-Does the product meet the requirement?
+The system specified:
 
-Can we provide a solution?
+· **Current Response Time: ≤5 ms** 
 
-However, after working with technical customers for several years, I gradually realized that specifications are only part of the conversation.
+· **Current Conversion Time: ≤10 ms** 
 
-Behind every technical requirement, there is usually a real application goal.
+· **Minimum Step Time: 100 ms** 
 
-Understanding that goal is often more important than matching individual parameters.
+The 100 ms minimum step time immediately stood out.
 
----
+If the customer's “step time” meant the same thing as the product's “minimum step time,” the conclusion was simple: a standard system with a 100 ms minimum could not meet a requirement below 10 ms.
 
-## **When a Requirement Appears to Be Impossible**
+That was my first reaction.
 
-I once worked with an overseas customer who was evaluating a high-power testing system.
+But I was not yet confident that the comparison itself was valid.
 
-During the technical discussion, the customer raised a strict performance requirement that appeared to be beyond our standard product capability.
+The same datasheet contained response and conversion times that were much faster than 100 ms. The customer, meanwhile, was not discussing an isolated parameter. They wanted to run “very dynamic and fast profiles.”
 
-My first instinct in the past would have been:
+At that point, I did not fully understand how step time, current response, current conversion, and the customer's dynamic profile related to one another.
 
-"Let me ask our engineering team whether we can customize it."
+So the gap between <10 ms and 100 ms was a strong warning sign, but not yet a product boundary I felt I understood.
 
-However, this time I approached the situation differently.
+## **What Did the Customer Mean by “Fast”?**
 
-Before involving internal resources, I first reviewed the requirement carefully and asked myself:
+I first explained the relevant specifications to the customer:
 
-**What is the customer actually trying to achieve?**
+“Our system supports fast current response (≤5 ms) and current conversion ≤10 ms. The standard programmed step time is 100 ms.”
 
----
+Then I asked whether their <10 ms requirement referred to very short steps or pulses, or mainly to fast transient response.
 
-## **Separating the Specification from the Real Need**
+Their answer was:
 
-Technical discussions can sometimes become focused on individual parameters.
+“Our <10ms requirement refers to both.”
 
-But one parameter does not always represent the complete application requirement.
+They explained that their cycles were highly dynamic: the system could switch quickly between charge and discharge, with rapid increases and decreases in current.
 
-Instead of immediately answering whether we could meet the specification, I started by clarifying:
+Then they added another number:
 
-· Why was this requirement important?
+“To give you an idea a normal profile step time is 20ms maximum.”
 
-· What testing scenario was the customer trying to achieve?
+Now I knew more about the application, but the picture was not yet complete.
 
-· Was this parameter the actual limitation, or just one way of describing the requirement?
+The customer had originally asked for **<10 ms**, and was now describing a normal profile step time of **20 ms**.
 
-Through further communication, I realized that the customer's main concern was not simply one specification.
+More importantly, I still needed to understand what that 20 ms represented.
 
-They were trying to achieve a specific dynamic testing performance.
+Was it simply a way of saying that the profile changed very quickly?
 
-This changed the direction of the discussion.
+Or was the profile itself actually defined in 20 ms steps?
 
----
+That distinction mattered because I was trying to determine whether the customer's application could genuinely be compared with our 100 ms programmed step limitation.
 
-## **From Saying "Yes or No" to Making a Professional Judgment**
+## **One More Question Changed the Comparison**
 
-After understanding the customer's actual goal, I compared it with our product capability.
+I went back to the customer and asked whether their profiles were strictly defined with step durations around 20 ms, or whether their main concern was fast current transitions during cycling.
 
-The conclusion was clear:
+This time, the answer was explicit:
 
-Some aspects of the requirement could be supported by the standard solution, while another key requirement exceeded the current product boundary.
+“Our profiles are defined at 20ms steps as of now.”
 
-Instead of forcing a solution or making uncertain promises, I communicated the situation honestly:
+The customer also asked whether a cycler with a standard programmed step time of 100 ms could still follow a current or power profile with a step time of 20 ms or less without missing points or resolution.
 
-· what the product could achieve;
+That clarification finally gave the numbers a clear place in the application:
 
-· what limitation existed;
+**20 ms** described the time steps used in the customer's current profiles.
 
-· what type of application the standard solution was suitable for.
+**<10 ms** was the step-time capability they were asking for in the new system.
 
-Although the project did not move forward at that stage, the communication created a clear understanding between the customer and our team.
+**100 ms** was the minimum programmed step time of our standard system.
 
----
+I was no longer comparing two similar-looking terms simply because they both contained the words “step time.” I could now connect the product specification to the way the customer actually defined and ran their profiles.
 
-## **A Different Way to Handle Technical Requirements**
+## **Fast Response Was Not the Same as Fast Step Execution**
 
-This experience changed my approach to technical discussions.
+There was still another distinction that mattered.
 
-Earlier in my career, when facing complex requirements, my first reaction was often:
+Our system's **≤5 ms current response time** looked fast enough to be relevant to a highly dynamic test. But it did not remove the **100 ms minimum programmed step time**.
 
-"Ask the engineer."
+These parameters described different aspects of system performance.
 
-Now, my approach is:
+A system can respond quickly to a change in current without being able to execute a newly programmed step at the same interval.
 
-**Understand the customer's objective**
+That distinction was important because otherwise it would have been easy to look at the ≤5 ms response specification and assume that the system could somehow satisfy a 20 ms—or even <10 ms—step-defined profile.
 
-↓
+It could not.
 
-**Break down the technical requirement**
+Even before considering the customer's more demanding <10 ms target, their current profiles were already defined at 20 ms steps, while our standard programmed step time was 100 ms.
 
-↓
+The standard system was not a fit.
 
-**Identify the real application need**
+## **The Answer Did Not Change. My Basis for It Did.**
 
-↓
+What stayed with me from this project was that my final answer was almost the same as my first instinct.
 
-**Evaluate product capability**
+At the beginning:
 
-↓
+**<10 ms required vs. 100 ms minimum — probably no.**
 
-**Involve technical resources when necessary**
+At the end:
 
-This approach improves communication efficiency and avoids unnecessary internal discussions.
+**20 ms step-defined profiles, a <10 ms target, and a 100 ms minimum programmed step time — no.**
 
----
+The product had not changed. The conclusion had not changed.
 
-## **The Role of a Sales Engineer**
+**What changed was my understanding of why the conclusion was valid.**
 
-In industrial B2B sales, customers do not always need someone who simply provides product information.
+My initial “no” came from comparing two specifications that appeared to correspond.
 
-They need someone who can understand their goals and connect them with practical solutions.
+My final “no” came after I understood enough of the customer's application to know that the comparison itself was meaningful.
 
-A sales engineer needs to balance three perspectives:
+That difference matters in technical sales.
 
-· customer expectations;
+## **A Specification Gap Is Not Yet a Product Boundary**
 
-· technical reality;
+Datasheets are essential in industrial sales, but specification matching is not always a matter of finding two numbers and deciding which one is larger.
 
-· business feasibility.
+Before comparing them, I need to ask:
 
-The value is not in promising everything.
+**Are these two parameters actually describing the same capability?**
 
-The value is in helping customers make informed decisions.
+Sometimes the answer is immediately clear. Sometimes the terminology is similar while the underlying performance dimensions are not.
 
----
+And sometimes, as in this case, I do not fully understand the distinction at the beginning.
 
-## **What I Learned**
+I did not need to become an expert in every technical detail before continuing the conversation. But I did need to keep clarifying the requirement until I understood enough to know **what I was comparing and why the comparison supported the decision**.
 
-This experience helped me understand an important difference between selling technical products and simply selling products.
+Deeper requirement understanding does not always reveal a hidden solution.
 
-Product sales often focus on:
+Sometimes the value is simply turning:
 
-"Does this product have the required feature?"
+**“The specifications look incompatible.”**
 
-Industrial B2B sales requires a deeper question:
+into:
 
-"Why does the customer need this capability, and what problem are they trying to solve?"
+**“I understand why this application is outside the product boundary.”**
 
-The ability to move from specification matching to requirement understanding has become one of the most important skills I have developed in technical sales.
+In technical B2B sales, a reliable “no” requires understanding too.

@@ -13,11 +13,11 @@ It was the ability to think deeply, understand situations, and make better judgm
 
 ---
 
-## **When Being Responsible Became My Default Mode**
+## **When Responsibility Became My First Response**
 
 Early in my career, my careful and responsible nature helped me a lot.
 
-In my first job, I worked as a business assistant supporting key customers. I was extremely detail-oriented and willing to handle complicated tasks. I could spend a lot of time organizing information, following up on details, and making sure nothing was missed.
+In my first job, I worked as a sales assistant to a key account director, helping her manage major customers, orders, quotations, and internal coordination. I was extremely detail-oriented and willing to handle complicated tasks. I could spend a lot of time organizing information, following up on details, and making sure nothing was missed.
 
 I did not mind working late.
 
@@ -29,7 +29,7 @@ So I gradually formed a belief:
 
 **Being valuable means being the person who is always willing to do more.**
 
-Later, when I moved into foreign trade and industrial B2B sales, this belief continued.
+Later, when I moved into a sales role and started managing customers myself, this belief continued.
 
 When customers had questions, I wanted to provide complete answers.
 
@@ -53,19 +53,19 @@ The problem was that I applied the same level of attention to everything.
 
 Over time, I realized that responsibility without prioritization can become a burden.
 
-In sales, not every customer request requires the same amount of time and energy.
+In sales, different situations require different levels of attention and different approaches.
 
-Not every problem has the same business impact.
+Some issues need immediate action, while others simply need a clear and timely response.
 
-Not every detail deserves the same level of attention.
+Some decisions have a major impact on a project, while others are relatively straightforward.
 
-But for a long time, I treated every task as if it carried the same importance.
+But for a long time, I approached almost everything with the same level of intensity.
 
 A small issue could receive the same amount of mental energy as a major project.
 
-A low-value request could occupy my attention for too long.
+I was often spending more time and attention on details than they truly deserved.
 
-I was always responding, always solving, always trying to make things complete.
+I was always responding, always solving, always trying to make everything complete.
 
 But I had less and less space to think.
 
@@ -89,13 +89,13 @@ A good sales engineer is not the person who simply answers every question immedi
 
 A good sales engineer needs to:
 
-· understand what the customer really needs;
+- understand what the customer really needs;
 
-· distinguish important issues from minor ones;
+- distinguish important issues from minor ones;
 
-· know when to go deeper and when to simplify;
+- know when to go deeper and when to simplify;
 
-· invest energy where it creates the most value.
+- invest energy where it creates the most value.
 
 This does not mean becoming less responsible.
 

@@ -1,6 +1,6 @@
-### **A 19-Month Journey with a New Research Laboratory**
+### **From First Contact to Completed Delivery**
 
----
+### **A 19-Month Journey with a New Research Laboratory****ratory**
 
 ## **Building a New Laboratory’s Testing Capability**
 
@@ -17,8 +17,6 @@ The initial requirement was not simply about purchasing one piece of equipment. 
 A new laboratory was gradually building the testing capability it would need for future research.
 
 And this was where the journey began.
-
----
 
 ## **From Initial Requirements to a Complete Testing Solution**
 
@@ -80,8 +78,6 @@ The customer’s requirements had changed, production required additional time, 
 
 The process kept moving forward, and communication continued throughout the changes.
 
----
-
 ## **When Commercial Terms and Customer Expectations Were Not Exactly the Same**
 
 As the equipment was approaching completion and preparation for shipment began, another experience left a strong impression on me.
@@ -132,8 +128,6 @@ but also:
 
 “Do we have the same picture of what will happen next?”
 
----
-
 ## **From Shipment to Laboratory Operation**
 
 After recognizing this difference, I continued arranging the transportation plan for the equipment to the Boston laboratory.
@@ -169,8 +163,6 @@ The laboratory gradually began operating the equipment.
 At the same time, the additional transportation payment outside the original PO was still being processed.
 
 By May 2024, all related payments had been completed.
-
----
 
 ## **Beyond Delivery**
 

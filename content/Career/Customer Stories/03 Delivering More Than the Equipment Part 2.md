@@ -1,6 +1,6 @@
-### **Two More Years Supporting the Same Research Laboratory**
+## **Beyond Delivery**
 
----
+### **Two More Years Supporting the Same Research Laboratory**
 
 ## **Delivery Was Not the End**
 
@@ -25,8 +25,6 @@ When the customer encountered an issue, I would first understand the actual situ
 The focus was no longer only about completing a delivery.
 
 It was about helping the customer make the equipment work effectively in their actual research environment.
-
----
 
 ## **Understanding the Application Behind a New Testing Requirement**
 
@@ -61,8 +59,6 @@ The solution gradually changed from:
 into:
 
 Using the existing 200A channels in parallel, together with suitable fixtures and additional connection components, to create a practical testing setup.
-
----
 
 ## **Turning an Accessory Request into a Practical Solution**
 
@@ -114,8 +110,6 @@ The first time, we helped a newly established laboratory build its testing capab
 
 This time, we helped an existing customer continue using their current system for new research needs.
 
----
-
 ## **When Equipment Becomes Part of the Customer’s Work**
 
 After the accessories arrived in late November 2024, I followed up with the customer:
@@ -137,8 +131,6 @@ Once equipment enters real application, one issue may be solved and experiments 
 The equipment is no longer just a product delivered to the customer.
 
 It becomes part of their ongoing work.
-
----
 
 ## **A Relationship That Continued Through Change**
 
@@ -171,8 +163,6 @@ New researchers joined.
 New testing requirements appeared.
 
 And the relationship evolved from an initial equipment purchase into ongoing support throughout the customer’s usage journey.
-
----
 
 ## **Looking Back: A Journey That Continued**
 

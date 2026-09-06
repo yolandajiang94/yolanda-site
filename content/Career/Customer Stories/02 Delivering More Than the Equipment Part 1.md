@@ -1,6 +1,6 @@
-### **From First Contact to Completed Delivery**
+## **From First Contact to Completed Delivery**
 
-### **A 19-Month Journey with a New Research Laboratory****ratory**
+### **A 19-Month Journey with a New Research Laboratory
 
 ## **Building a New Laboratory’s Testing Capability**
 

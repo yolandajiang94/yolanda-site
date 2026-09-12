@@ -1,224 +1,106 @@
-## **The Difference Between Having Experience and Understanding It**
+For years, I knew that experience was worth reflecting on.
 
-Over the years, I have always believed that experience is something worth reflecting on.
+As I spent more time working, I could feel that I understood customers better than when I first started. Things that once felt difficult gradually became familiar.
 
-As I spent more time working, I could feel that I was no longer the same person who had just started my career.
+But knowing that reflection matters and actually taking the time to understand experience are two different things.
 
-I had worked with more customers, handled more projects, and faced situations that once felt difficult.
+In daily work, there is always something more immediate to deal with. Customers need replies. Projects need to move forward. Orders need follow-up. Problems need to be solved.
 
-Many things that used to require significant effort gradually became familiar.
+Once one thing is finished, the next one is already waiting.
 
-But I also began to realize something:
+So for a long time, much of my experience accumulated in a simple way:
 
-Knowing that experience matters and actually taking the time to understand experience are two different things.
+**Something happened. I dealt with it. Then I moved on.**
 
-In daily work, there is always something more urgent waiting.
-
-A customer needs a reply.
-
-A project needs to move forward.
-
-An order needs to be followed up.
-
-A problem needs to be solved.
-
-Once one thing is finished, the next thing is already waiting.
-
-So for a long time, the way I accumulated experience was simple:
-
-Something happened.
-
-I handled it.
-
-Then I moved on.
-
-I knew I was gaining experience, but much of what I learned remained attached to specific situations.
-
-A customer conversation.
-
-An order.
-
-A problem that needed to be solved.
-
-A project that was completed.
-
-These experiences continued to accumulate, but I rarely stopped to break them down.
-
-I rarely asked myself:
-
-What actually happened here?
-
-Why did I make that decision?
-
-Which actions truly influenced the outcome?
-
-If I faced a similar situation again, would I make a different choice?
+I knew I was gaining experience, but much of it remained tied to individual situations. I rarely stopped to ask what those experiences had actually left me with.
 
 ## **Stepping Outside the Flow of Daily Work**
 
-This gradually started to change over the past year.
+For a long time, I was mostly focused on keeping daily work moving. I rarely stopped to look back at what had already happened.
 
-It was not because of one specific moment when I suddenly realized:
+But over the past year, as my work became less intense, I had more time and space to look back and understand my past experience differently.
 
-“I should seriously reflect on my career.”
+Before, I focused more on:
 
-That thought had existed for a long time.
+**What should I do next?**
 
-But for many years, I was mostly focused on moving things forward day by day.
+Now, I also ask:
 
-Customers needed replies.
+**What actually happened?**
 
-Projects needed progress.
+**What did this experience leave me with?**
 
-Orders needed follow-up.
+It seems like a small change, but it changed the way I understand my work.
 
-Problems needed solutions.
+I am no longer only going through experiences.
 
-When you are constantly dealing with the next task, there is rarely enough space to step back and look at what has already happened.
+I am trying to understand them.
 
-As my work rhythm became less intense than before, I gradually realized that I had reached a stage in my career where it was necessary to look back and better understand my past experiences.
+## **Seeing the Judgment Behind an Experience**
 
-Over the past year, I started intentionally creating more time and space to revisit my previous work.
+As I started preparing for a job search this year, I knew I needed to revisit some of my past work and prepare a few examples for interviews.
 
-In the past, I was mainly focused on:
+But I kept putting it off.
 
-What should I do next?
+Going back to an old case often meant returning to a situation that had once taken a lot of time and energy to deal with. Some were long and complex. Others were shorter, but involved difficult problems, uncertainty, or frustrating moments. Reconstructing what had happened—and thinking through it again—felt mentally demanding.
 
-Now, I started asking different questions:
+Eventually, I chose a few representative cases and started breaking them down.
 
-What actually happened?
+At first, the goal was simply to prepare for interviews. But after reviewing several cases more closely, I began to notice something I had not paid much attention to before.
 
-Why did I handle it that way?
+I used to think:
 
-What information did I have at that time?
+**If an order was successfully completed, it was a good experience.**
 
-What judgment did I make?
+But success alone does not tell the whole story.
 
-What did this experience truly leave me with?
+Some orders move forward smoothly. The customer knows what they need, the product fits the requirement, communication goes well, and the purchase is completed.
 
-These questions may seem like a small change in perspective, but they changed the way I looked at my work.
+It is a real sale and a real result.
 
-I was no longer only going through experiences.
+But when I ask:
 
-I was beginning to understand them.
+**What judgment did I actually make in this case?**
 
-## **Recognizing the Judgment Behind an Experience**
+Sometimes, there is no particularly clear answer.
 
-One important change came when I started breaking down past projects while preparing professional case stories in July.
+The cases that gave me more to think about were often the ones where I had to understand what the customer was really trying to solve, make sense of incomplete information, adjust when things changed, or decide what needed to be held firm and what needed coordination.
 
-For the first time, I systematically reviewed some of my previous work experiences.
-
-In the past, I believed:
-
-A successfully completed order was a valuable experience.
-
-But later, I realized:
-
-A successful result does not tell the whole story.
-
-Some orders moved forward smoothly.
-
-The customer already knew exactly what they needed.
-
-The product matched the requirement.
-
-Communication was clear.
-
-The purchase was completed successfully.
-
-It was a real sale and a real result.
-
-But when I asked myself:
-
-“What important judgment did I actually make in this case?”
-
-Sometimes, there was no particularly clear answer.
-
-The experiences worth keeping are not necessarily the ones with the best results.
-
-They are often the ones where meaningful judgment was required along the way.
-
-Questions such as:
-
-What problem was the customer truly trying to solve?
-
-What information was hidden behind the initial request?
-
-How did I adjust my judgment when things changed?
-
-What did I need to insist on?
-
-What did I need to coordinate?
-
-What risks needed to be considered earlier?
-
-Over time, I gradually developed a way to look at experience:
+Over time, I began to see experience through a simple structure:
 
 **Problem → Information → Judgment → Action → Result**
 
-In the past, I went through these processes.
+Before, I simply went through these processes.
 
-Now, I try to understand what was actually happening inside them.
+Now, I try to see what was actually happening inside them.
 
-## **Some Experiences Are Not Obviously Valuable When They Happen**
+## **The Experiences We Overlook**
 
-Recently, when revisiting some past cases, I gained a deeper understanding of this.
+More recently, while revisiting several past cases more deeply, I began to notice something else.
 
-Some experiences that looked ordinary, or even frustrating at the time, later became some of the most meaningful ones to examine.
+Some experiences felt ordinary at the time. Others came with pressure and frustration and were not experiences I wanted to revisit. Both could easily be put aside once they were over.
 
-A long-term customer project may have seemed like nothing more than continuous communication, following changes, and solving problems.
+Some long-term customer projects simply felt like ongoing communication, following changes, and solving problems.
 
-A transportation issue may have felt mainly like pressure and uncertainty at the time.
+A shipping incident was remembered more for the pressure and uncertainty it created.
 
-Years of customer support may have simply felt like helping whenever the customer had a need.
+Years of supporting the same customer simply felt like this: the customer had a need, so I continued helping to solve it.
 
-But when I looked back at these experiences years later, I realized:
+But when I looked back at these experiences years later, I began to see something different.
 
-What truly mattered was not one specific action.
+**What mattered was not one particular action.**
 
-It was how I understood the customer, judged the situation, coordinated resources, and continued moving things forward through many ordinary actions.
+**It was how I understood the customer, judged the situation, coordinated resources, and kept things moving throughout the process.**
 
-Many abilities do not appear in one dramatic moment.
+Many abilities do not reveal themselves in one especially important moment.
 
-They gradually become visible through the accumulation of many ordinary situations over time.
+They become visible only after many ordinary actions accumulate over time.
 
-## **From Remembering Experiences to Understanding Them**
+## **Why I Keep a Digital Garden**
 
-In the past, when I looked back at my work, I mainly remembered events.
+This is also one reason my digital garden has become more meaningful to me.
 
-I worked with this customer.
-
-I handled that problem.
-
-That project was complicated.
-
-That order was eventually completed.
-
-These memories are certainly part of experience.
-
-But I now believe there is another layer beneath them.
-
-What is worth keeping is not only what happened, but also:
-
-Why was this situation difficult?
-
-What was the real problem?
-
-What information did I have at that time?
-
-Why did I make that decision?
-
-Which of my actions changed what happened afterward?
-
-If I faced a similar situation again, would I make the same choice?
-
-These questions turn an ordinary experience into something I can truly understand.
-
-## **Why I Keep These Experiences**
-
-This is also why my digital garden has become increasingly meaningful to me.
-
-Over the years, many valuable thoughts have been scattered across different places:
+Over the years, many useful thoughts have been scattered across different places:
 
 Work files.
 
@@ -228,19 +110,19 @@ Conversations.
 
 My own memory.
 
-But I do not want to record everything that happens.
+I do not want to preserve all of them.
 
-A digital garden, to me, is not a work diary or a complete archive of every experience.
+To me, a digital garden is not a record of everything that happens in my work or life. Nor is it a complete archive of every experience.
 
 Not every experience needs to become an article.
 
-What I want to keep are the experiences and ideas that remain valuable after time, reflection, and further understanding.
+What I want to keep are the smaller number of ideas that survive reflection, continue to make sense over time, and become clearer through real experience.
 
-The process is not about recording more and more.
+The process is less about recording more, and more about understanding what is worth recording:
 
-It is about finding what is truly worth keeping from what I have experienced.
+**What is actually worth keeping?**
 
-My current understanding is:
+So this is how I now think about it:
 
 **Experience → Looking Back → Breaking It Down → Understanding → Keeping What Matters**
 
@@ -248,34 +130,20 @@ Writing comes at the end, not the beginning.
 
 ## **Experience Is Only the Beginning**
 
-I still believe that real work experience matters.
+I still believe real work experience matters.
 
-There is no substitute for:
+Actually dealing with customers, handling projects, facing uncertainty, making mistakes, and living with the results cannot be replaced.
 
-Working with real customers.
+But I no longer believe that simply having more experiences will automatically lead to deeper understanding.
 
-Handling real projects.
+**Experience provides the material.**
 
-Facing uncertainty.
-
-Taking responsibility for outcomes.
-
-But I no longer believe that simply experiencing more situations automatically leads to growth.
-
-Experience provides the material.
-
-Reflection helps me understand what is inside that material.
+**Reflection helps me see what is actually inside it.**
 
 The change I want to make is simple:
 
-I do not want one experience to disappear under the next one.
+Do not let one experience be quickly covered by the next.
 
-I want to occasionally stop.
+Sometimes, stop. Look back. Try to understand what actually happened.
 
-Look back.
-
-Understand what really happened.
-
-Not every experience will leave behind something important.
-
-But when an experience is worth understanding again, I want to take the time to see what it can teach me before moving forward.
+Not every experience will leave behind an important lesson. But when one does, I want to take the time to understand what it taught me before moving on.

@@ -1,7 +1,6 @@
+_Rethinking What Business Development Means After_ _Eight Years_ _in Industrial B2B Sales_
 
-_Rethinking What Business Development Means After Five Years in Industrial B2B Sales_
-
-## When Sales Was Mostly About Execution
+## **When Sales Was Mostly About Execution**
 
 For several years, my understanding of business development was relatively straightforward.
 
@@ -27,9 +26,7 @@ They were useful, and they remain part of my work today.
 
 But after several years in industrial B2B sales, I gradually realized that I had been learning individual sales techniques without fully understanding the profession behind them.
 
----
-
-## Cold Outreach Is Not the Same as Business Development
+## **Cold Outreach Is Not the Same as Business Development**
 
 For a long time, I unconsciously treated cold outreach as the center of customer development.
 
@@ -61,9 +58,7 @@ It is also:
 
 That shift changed the way I began to think about business development.
 
----
-
-## Learning to Look for Opportunities, Not Just Companies
+## **Learning to Look for Opportunities, Not Just Companies**
 
 Once I started thinking beyond customer lists, I became more interested in what was happening around a company.
 
@@ -97,27 +92,19 @@ Demand moves between countries and customer groups.
 
 A salesperson needs to notice those changes rather than continue using the same development pattern simply because it worked before.
 
----
-
-## Understanding the Value of Industry Connections
+## **Understanding the Value of Industry Connections**
 
 Another blind spot in my earlier work was industry networking.
 
-Most of my attention went directly to end users: engineers, researchers, lab managers, and other potential buyers.
+Most of my attention went directly to end users: university researchers, engineers, lab managers, and other potential buyers.
 
-I paid much less attention to the wider network around an industry.
+I paid much less attention to the wider network around the industry.
 
-Distributors.
+Distributors and intermediaries.
 
-Consultants.
+Salespeople from other companies serving similar customers.
 
-Integrators.
-
-Suppliers.
-
-Other salespeople.
-
-Engineers and project managers who might never directly purchase from me.
+Other industry contacts I met at trade shows, conferences, and during business trips.
 
 Earlier in my career, advice such as "get to know more people in the industry" sounded vague to me.
 
@@ -137,9 +124,7 @@ An industry network is not separate from business development.
 
 It is part of business development.
 
----
-
-## Knowing the Value of Networking Was Not Enough
+## **Knowing the Value of Networking Was Not Enough**
 
 This realization also made me look differently at trade shows, business trips, and customer visits.
 
@@ -165,9 +150,7 @@ I did not need to become the most outgoing person in the room.
 
 But I did need to learn how to create connections in a way that worked for me.
 
----
-
-## Building a Sales Approach Around My Strengths
+## **Building a Sales Approach Around My Strengths**
 
 For a long time, I sometimes interpreted this discomfort as a weakness in sales.
 
@@ -191,9 +174,7 @@ It means building a more complete system around the strengths I already have whi
 
 For me, that means becoming better at identifying opportunities, understanding markets, building industry connections, and creating more ways for potential customers to enter my network.
 
----
-
-## From Managing Customers to Building an Opportunity Network
+## **From Managing Customers to Building an Opportunity Network**
 
 The biggest change in my thinking is that I no longer see business development as a linear process:
 
@@ -229,9 +210,7 @@ So do LinkedIn, Google research, trade shows, customer visits, referrals, indust
 
 No single channel is the whole system.
 
----
-
-## What I Want to Become Better At
+## **What I Want to Become Better At**
 
 After this reflection, the skills I want to develop are different from the ones I focused on earlier in my career.
 
@@ -257,32 +236,6 @@ They cannot be mastered by reading a few examples.
 
 They develop through years of observing markets, talking to people, working on projects, making mistakes, and reflecting on what actually creates opportunities.
 
----
+**I am still learning. But I now have a much clearer idea of what I am trying to learn.**
 
-## Reflection
-
-For years, I was learning sales techniques.
-
-How to find customers.
-
-How to write emails.
-
-How to follow up.
-
-How to communicate.
-
-Those skills gave me a foundation.
-
-But only later did I begin to understand the profession itself.
-
-Industrial B2B sales is not simply about finding more people to contact.
-
-It is about understanding where opportunities come from, recognizing when markets and customers are changing, building relationships across an industry, and gradually developing the judgment to know where to invest time and attention.
-
-That shift did not give me a perfect sales system.
-
-It gave me something more useful:
-
-a broader understanding of what I still need to learn.
-
-And I think that is the beginning of a different stage in my career.
+**For me, that marks the beginning of a different stage in my career.**

@@ -148,9 +148,9 @@ By March 2025, our communication was still ongoing. Later that year, he left the
 
 In March 2025, another researcher became the new contact person and continued communicating with me about the laboratory’s equipment.
 
-From March 2025 until I left my previous company in 2026, we continued maintaining communication regarding the system.
+From March 2025 until I left my previous company in July 2026, we continued maintaining communication regarding the system.
 
-Before my departure, I introduced the colleague who would take over my work, ensuring the laboratory could continue receiving support.
+Before leaving, I made sure the laboratory was properly handed over to the colleague taking over my work, so that support could continue after my departure.
 
 Over these years, the laboratory had gradually moved from a newly established research group planning its testing capability into a more stable research environment.
 

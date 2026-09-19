@@ -1,7 +1,6 @@
 ---
 title: Industrial B2B Sales
 ---
----
 
 # Industrial B2B Sales
 

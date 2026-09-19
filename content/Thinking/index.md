@@ -2,5 +2,4 @@
 title: Thinking
 ---
 
-
-Reflections on personal growth, decision making, relationships, and the process of understanding myself and the world.
+Reflections on how I understand myself, make sense of experience, and see the world around me.

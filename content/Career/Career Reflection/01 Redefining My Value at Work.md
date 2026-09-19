@@ -11,8 +11,6 @@ My biggest strength was not simply being careful.
 
 It was the ability to think deeply, understand situations, and make better judgments.
 
----
-
 ## **When Responsibility Became My First Response**
 
 Early in my career, my careful and responsible nature helped me a lot.
@@ -47,8 +45,6 @@ There was nothing wrong with caring about customers.
 
 The problem was that I applied the same level of attention to everything.
 
----
-
 ## **The Cost of Treating Everything as Equally Important**
 
 Over time, I realized that responsibility without prioritization can become a burden.
@@ -74,8 +70,6 @@ And for a sales engineer, thinking is not a luxury.
 It is part of the job.
 
 Understanding customer needs, identifying the real problem, evaluating priorities, and making decisions are what create long-term value.
-
----
 
 ## **From Being a Hard Worker to Becoming a Professional**
 
@@ -108,8 +102,6 @@ There is a difference between:
 and:
 
 “I will focus on the things that truly matter because I understand where my value is.”
-
----
 
 ## **Learning to Use My Energy Wisely**
 

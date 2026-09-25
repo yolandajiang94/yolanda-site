@@ -55,7 +55,7 @@ The customer then ran additional tests at:
 
 · **7 μA** 
 
-This time, they also provided the corresponding raw NDA data.
+This time, they provided the corresponding raw NDA data.
 
 The results showed that the problem had not disappeared.
 

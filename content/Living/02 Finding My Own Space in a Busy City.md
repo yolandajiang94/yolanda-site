@@ -8,7 +8,7 @@ Turning something messy into something structured has always given me a strong s
 
 And much of that process this year took place in cafés.
 
-Outside of work, I had much less of a social life than usual.Whenever I had time on weekends, I took my laptop to a café. Sometimes I sorted things out; other times, I simply sat there and let my mind wander.
+Outside of work, I had much less of a social life than usual. Whenever I had time on weekends, I took my laptop to a café. Sometimes I sorted things out; other times, I simply sat there and let my mind wander.
 
 Looking back, I regularly visited six or seven cafés across several districts of Shenzhen, and later in Huizhou and Dongguan.
 

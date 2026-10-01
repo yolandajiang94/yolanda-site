@@ -26,7 +26,7 @@ At the time, I was still doing what I had always done: going through years of pe
 
 As I began using AI more frequently, my attention gradually shifted to my old work spreadsheets and overseas sales development system, as well as questions in my life that I had been struggling to make sense of.
 
-## **Slowing Down in a Bigger Space**
+## **Making Space to Sort Things Out**
 
 Around February and March this year, I started going regularly to a café in Luohu District.
 
@@ -38,7 +38,7 @@ I also loved its high ceiling and slightly industrial-style interior. The music 
 
 By then, many things I had been trying to sort through were much clearer, and nothing felt especially urgent to solve.
 
-Often, I simply sat there, let my mind wander, and cleared out scattered things in my life, work, and mind, which made me feel lighter and clearer.
+I would often spend hours there, slowly sorting through things in my life, work, and mind. I still had things to figure out, but I could take my time, and the process itself felt comfortable.
 
 Once, a sudden rainstorm hit. I noticed a man sitting in an outdoor seat with a great view. The wind and rain were pouring down, but he stayed there, completely relaxed.
 

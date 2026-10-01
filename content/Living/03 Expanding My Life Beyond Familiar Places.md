@@ -6,7 +6,9 @@ That stability gave me a sense of security. Life could continue in familiar ways
 
 When everything becomes familiar, it is easy to simply keep living the same way.
 
-Sometimes, we get so busy living our lives that we forget to ask ourselves: **Is the life we have built still the life we truly want?**
+Sometimes, we get so busy living our lives that we forget to ask ourselves:
+
+**Is the life we have built still the life we truly want?**
 
 ## **A Year When Everything Started to Change**
 

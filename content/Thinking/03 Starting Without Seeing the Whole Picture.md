@@ -30,25 +30,17 @@ Once I started, it was much simpler than I had imagined. On the first day, I spe
 
 Not everything has a clear finish line like a résumé or a STAR case.
 
-Spoken English has been a challenge for me for many years.
+Spoken English has been a challenge for me for many years. Since finishing the college entrance exam in 2013, I have tried many different ways to improve my English. After I started working, my reading, emails, and work-related English continued to improve, but speaking remained difficult. For years, “improving my spoken English” was a huge and vague goal.
 
-Since finishing the college entrance exam in 2013, I have kept trying to improve my English and have tried many different ways of learning. After I started working, my reading, emails, and work-related English continued to improve. What remained difficult for me over the long term was speaking.
+At the same time, I felt that after so many years in overseas sales and now being in my thirties, I should not still be using such simple English. The result was that simple expressions did not feel good enough, while more complicated ones were difficult to use in real time.
 
-For years, “improving my spoken English” was a huge and vague goal. I could always learn more vocabulary, speak more naturally, or become better at small talk. If the goal was simply to “speak English well,” I could always find another reason why I was not good enough yet.
-
-At the same time, I felt that after so many years in overseas sales and now being in my thirties, I should not still be using such simple English. The result was that simple expressions did not feel good enough, while more complicated ones were difficult to use in real time. Speaking became even harder.
-
-A few months ago, I gradually started letting go of “speaking English fluently” as the goal. What I actually need now is to handle the communication situations that repeatedly come up in overseas sales.
-
-For about two months in the first half of this year, I used some of my time after work to map out the situations in which I genuinely need spoken English, including overseas business trips, video calls, and factory visits. Compared with the endless goal of “improving my English,” these specific situations helped me see for the first time that what I actually need to learn can be finite.
+This year, I gradually started letting go of “speaking English fluently” as the goal. What I actually need now is to handle the situations that repeatedly come up in overseas sales, including overseas business trips, video calls, and factory visits. Compared with the endless goal of “improving my English,” these specific situations helped me see for the first time that what I actually need to learn can be finite.
 
 Later, when a customer might visit, I prepared some possible topics in advance. Many of the expressions AI gave me were very simple. In the past, I might have thought: How can English this simple be enough for an adult who has been working for years?
 
 But this time, I started thinking: maybe it really can be this simple. I can understand it, and I might actually be able to say it.
 
-I can have the thoughts of a 32-year-old adult and the professional judgment that comes from years of work, while the English I use to express them can still be simple for now.
-
-My digital garden showed me another change. I am willing to read and learn the English articles on my own website one by one because they are about my work, my experiences, and things I genuinely want to express.
+My digital garden showed me another change. I am willing to read and learn the English articles on my own website because they are about my work, my experiences, and things I genuinely want to express.
 
 In the past, I often learned English materials first, hoping I might use them someday. Now the order is sometimes reversed: **I already have something I want to say, and then I learn how to say it in English.**
 

@@ -2,7 +2,7 @@ I have always had a tendency to make things feel more complicated before I even 
 
 Over time, I began to realize that **sometimes the complexity does not come entirely from the task itself. I form an expectation of how difficult it will be before I have really understood it.** Once I start checking the information and dealing with the actual issues, things often turn out to be more manageable than they first seemed. Much of my hesitation around complex tasks happens before I actually begin.
 
-## **Starting With Complex Customer Requirements**
+## **Complex Customer Requirements**
 
 Over the past five years, complex customer requirements have often made me hesitate.
 
@@ -12,7 +12,7 @@ When I first received a request like this, I often did not know the answer. But 
 
 As the missing information gradually came in, the vague problem would turn into several specific problems I could actually deal with.
 
-## **The Things I Made Bigger Before I Started**
+## **When a Problem Feels Bigger Before I Even Start**
 
 I saw the same pattern again when I was preparing for job interviews.
 
@@ -26,7 +26,7 @@ I joined my previous company in July 2021 and left in July 2026. After five year
 
 Once I started, it was much simpler than I had imagined. On the first day, I spent about an hour organizing the timeline and main responsibilities from my previous jobs. The next day, I spent another hour or so finding a suitable template, putting the content into it, and making some adjustments. That was basically it. **There was only so much I could do with a résumé.** 
 
-## **But Some Problems Have No Natural Boundary**
+## **Problems Without Natural Boundaries**
 
 Not everything has a clear finish line like a résumé or a STAR case.
 
@@ -46,7 +46,7 @@ In the past, I often learned English materials first, hoping I might use them so
 
 My spoken English is still a work in progress, but I now have a clearer idea of what I actually need to learn.
 
-## **What If I Don't Even Know the Final Boundary?**
+## **When the Final Boundary Is Unknown**
 
 English at least has a relatively clear direction. I know that I work in overseas sales, and ultimately I want my spoken English to serve real work.
 

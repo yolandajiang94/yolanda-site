@@ -62,6 +62,9 @@ I simply had not had much time or mental space to notice them before.
 
 ## **Finding What I Wanted in a Home**
 
+
+<img src="/images/balcony-view.jpg" alt="View from my balcony" width="600">
+
 In April 2026, I left Baishilong, where I had lived for many years, and moved from Longhua to Bantian in Longgang.
 
 This time, I moved into a residential community I had been looking forward to living in for a long time.

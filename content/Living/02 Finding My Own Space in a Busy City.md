@@ -29,7 +29,7 @@ As I began using AI more frequently, my attention gradually shifted to my old wo
 ## **Making Space to Sort Things Out**
 
 
-<img src="/images/luohu-cafe-on-a-rainy-day.jpg" alt="A café in Luohu on a rainy day" width="600">
+<img src="/images/luohu-cafe-on-a-rainy-day.jpg" alt="A café in Luohu on a rainy day" width="720">
 
 
 Around February and March this year, I started going regularly to a café in Luohu District.
@@ -49,7 +49,7 @@ Once, a sudden rainstorm hit. I noticed a man sitting in an outdoor seat with a 
 ## **Under the Flame Trees**
 
 
-<img src="/images/cafe-under-a-flame-tree.jpg" alt="A café under the flame trees" width="600">
+<img src="/images/cafe-under-a-flame-tree.jpg" alt="A café under the flame trees" width="720">
 
 Later, I moved to Bantian, where I lived in a residential community with a much nicer environment.
 

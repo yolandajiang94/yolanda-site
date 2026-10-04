@@ -24,7 +24,7 @@ The moment I saw them, I felt relieved.
 
 After another move in April 2026, I realized that the food sealing clips I often used were missing.
 
-Again, I started wondering where they could have gone. I normally would not throw away something that was still usable, but I had also been clearing things out around that time. Had I decided in the moment that I no longer needed them and thrown them away?
+Again, I started wondering where they could have gone. I normally would not throw away something that was still usable, but the clips were already a few years old, and I had also been clearing things out around that time. I wondered if, at some point, I had simply decided they were getting old and thrown them away.
 
 That familiar uncertainty came back. I could feel myself wanting to keep searching and going over everything again until I figured out exactly where the clips had gone.
 

@@ -1,5 +1,6 @@
 ---
 title: Career Reflection
+date: 2026-07-11
 ---
 
 Reflections on my professional journey, career development, and the lessons I have learned from different stages of my work.

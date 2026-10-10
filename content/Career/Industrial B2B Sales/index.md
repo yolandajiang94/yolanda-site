@@ -1,5 +1,6 @@
 ---
 title: Industrial B2B Sales
+date: 2026-07-11
 ---
 
 # Industrial B2B Sales

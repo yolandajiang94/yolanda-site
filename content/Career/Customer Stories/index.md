@@ -1,5 +1,6 @@
 ---
 title: Customer Stories
+date: 2026-07-11
 ---
 
 # Customer Stories

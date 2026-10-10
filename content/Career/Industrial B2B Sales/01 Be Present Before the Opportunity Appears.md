@@ -1,4 +1,6 @@
-
+---
+date: 2026-07-17
+---
 _Why consistent customer development matters even when nothing seems to be happening_
 
 Much of proactive B2B sales is not particularly exciting.

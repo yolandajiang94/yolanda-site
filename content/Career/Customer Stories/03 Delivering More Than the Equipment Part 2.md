@@ -1,3 +1,6 @@
+---
+date: 2026-07-20
+---
 ## **Beyond Delivery**
 
 ### **Two More Years Supporting the Same Research Laboratory**

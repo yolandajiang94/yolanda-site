@@ -1,4 +1,6 @@
-
+---
+date: 2026-07-27
+---
 _Why matching a customer requirement sometimes means looking beyond feature names_
 
 In technical B2B sales, customers do not always describe their requirements using the same terminology that appears in a supplier's product documentation.

@@ -1,4 +1,6 @@
-
+---
+date: 2026-07-22
+---
 _Why solving a customer problem sometimes starts with deciding whether the problem has been defined correctly_
 
 For many years in industrial B2B sales, I had a simple instinct when a customer reported a problem:

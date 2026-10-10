@@ -1,3 +1,6 @@
+---
+date: 2026-07-19
+---
 ## **From First Contact to Completed Delivery**
 
 ### A 19-Month Journey with a New Research Laboratory

@@ -1,4 +1,6 @@
-
+---
+date: 2026-07-24
+---
 _When a specification gap looks obvious, the harder question may be whether the two specifications are describing the same capability._
 
 In technical B2B sales, specification matching often seems straightforward: take the customer's requirement, find the corresponding parameter in the datasheet, and compare the numbers.

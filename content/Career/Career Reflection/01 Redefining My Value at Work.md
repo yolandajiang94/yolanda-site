@@ -1,3 +1,6 @@
+---
+date: 2026-07-15
+---
 
 For many years, I believed that my greatest strengths at work were being careful, patient, and willing to take responsibility.
 

@@ -1,3 +1,6 @@
+---
+date: 2026-08-05
+---
 A U.S. industrial customer urgently needed a high-power testing system. To receive it as soon as possible, they requested air shipment. Given the value of the equipment, we purchased transportation insurance before dispatch. On May 29, the system was shipped in a wooden crate.
 
 On June 2, while it was still in transit, I reminded the customer to inspect both the crate and the equipment upon delivery. If there was any shipping damage, I asked them to take photos, obtain a damage record from the carrier if possible, and inform us quickly so that the insurance process could be started.

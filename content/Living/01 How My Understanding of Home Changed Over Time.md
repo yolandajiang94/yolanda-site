@@ -1,3 +1,6 @@
+---
+date: 2026-07-12
+---
 After graduating in June 2017, I moved to Shenzhen.
 
 During my first year of work, I lived in a company dormitory near an industrial park. At the time, I paid little attention to my living environment, as work and gaining experience felt much more important.

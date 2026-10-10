@@ -1,3 +1,6 @@
+---
+date: 2026-07-16
+---
 In industrial B2B sales, many opportunities do not move quickly.
 
 A customer may have a real need, but the purchasing timeline can remain uncertain for months. Budgets, internal procedures, changing requirements, and external conditions can all affect when a project moves forward.

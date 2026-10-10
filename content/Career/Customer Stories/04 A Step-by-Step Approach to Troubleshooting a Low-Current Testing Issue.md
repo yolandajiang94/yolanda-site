@@ -1,4 +1,6 @@
-
+---
+date: 2026-07-23
+---
 A research customer once contacted me about two battery testing units that seemed to behave differently from the others in their lab.
 
 They had eight units of the same model. According to the customer, Device 05 and Device 06 showed abnormal behavior during very low-current discharge tests, while the other units appeared to work normally.

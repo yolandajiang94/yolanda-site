@@ -1,3 +1,6 @@
+---
+date: 2026-08-22
+---
 I have always had a tendency to make things feel more complicated before I even begin. Especially when it is important, or when past experience tells me that it may not be easy to handle, I can quickly get the sense that certain parts may be difficult or require a lot of back-and-forth. I may not know exactly what the difficulties are yet, but I already expect it to be a lot of work.
 
 Over time, I began to realize that **sometimes the complexity does not come entirely from the task itself. I form an expectation of how difficult it will be before I have really understood it.** Once I start checking the information and dealing with the actual issues, things often turn out to be more manageable than they first seemed. Much of my hesitation around complex tasks happens before I actually begin.

@@ -1,3 +1,6 @@
+---
+date: 2026-08-04
+---
 For many years, I lived in the same area of Longhua, Shenzhen.
 
 For about eight years, this area remained the center of my life. Work, home, and everything around me gradually settled into a stable routine.

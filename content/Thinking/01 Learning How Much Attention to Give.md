@@ -1,3 +1,6 @@
+---
+date: 2026-08-07
+---
 I have always been someone who takes good care of the things I own.
 
 To me, the value of an object is not entirely determined by how much it costs. Even if it is something small and inexpensive, once it becomes part of my life, I tend to give it some meaning. I want to take care of it, use it well, and make the most of it.

@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 After returning to foreign trade, I joined an industrial equipment company in 2021 and entered a new stage of my career.
 
 Unlike my previous role as an assistant to a key account manager, this position gave me much more autonomy over my work. I could organize my own workflow, manage customer follow-ups, explore potential markets, and decide how to approach different opportunities.

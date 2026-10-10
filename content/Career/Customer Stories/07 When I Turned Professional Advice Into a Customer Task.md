@@ -1,3 +1,6 @@
+---
+date: 2026-08-03
+---
 I once handled an equipment order for a Canadian university.
 
 Before shipment, the customer had already provided their designated customs broker's contact information, which I passed on to our freight forwarder.

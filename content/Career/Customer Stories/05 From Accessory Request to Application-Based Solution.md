@@ -1,3 +1,6 @@
+---
+date: 2026-07-25
+---
 A university laboratory had been using battery testing systems purchased at different stages.
 
 In October of the previous year, the laboratory purchased a new battery testing system from us. In May, the customer contacted me again with a new request:

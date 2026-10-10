@@ -1,3 +1,6 @@
+---
+date: 2026-08-15
+---
 I used to explain things very easily.
 
 Not necessarily because anyone asked me to. Often, as soon as I sensed a misunderstanding, concern, or uncertainty, I would instinctively add more context or explain my reasons, hoping to make things clear. If something felt wrong, I would also start thinking: What is the problem? Why is this happening? What else can I do?

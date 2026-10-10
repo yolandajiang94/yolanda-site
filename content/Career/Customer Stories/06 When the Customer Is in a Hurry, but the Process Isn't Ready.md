@@ -1,3 +1,6 @@
+---
+date: 2026-07-28
+---
 Some B2B projects are difficult because the technical requirements are complicated.
 
 Others are difficult for a much simpler reason: **the customer is in a hurry.**

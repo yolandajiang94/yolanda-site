@@ -1,3 +1,6 @@
+---
+date: 2026-10-03
+---
 I have always been someone who likes to organize things.
 
 In the past, this habit mostly focused on the small, practical details of everyday life.

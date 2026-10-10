@@ -1,11 +1,10 @@
-
 A U.S. industrial customer urgently needed a high-power testing system. To receive it as soon as possible, they requested air shipment. Given the value of the equipment, we purchased transportation insurance before dispatch. On May 29, the system was shipped in a wooden crate.
 
 On June 2, while it was still in transit, I reminded the customer to inspect both the crate and the equipment upon delivery. If there was any shipping damage, I asked them to take photos, obtain a damage record from the carrier if possible, and inform us quickly so that the insurance process could be started.
 
 At the time, this seemed like a routine precaution. A few days later, it became an important part of a much more complicated situation.
 
-# **The equipment arrived damaged**
+# **The Equipment Arrived Damaged**
 
 On June 10, the customer emailed me to say that the system had arrived with visible physical damage.
 
@@ -19,8 +18,6 @@ In practice, large industrial equipment is not a consumer parcel. A system may a
 
 That gap between formal receiving procedures and the reality of an industrial site would make this case much harder to resolve.
 
-# **The first response**
-
 As soon as the customer reported the damage, I informed the company and sent the photos to our engineering and after-sales teams.
 
 Based on the images, their preliminary view was that there was no obvious damage to the core internal components, while the visible damage appeared to be concentrated around the external structure. They suggested powering on the system to determine whether its functions had also been affected.
@@ -31,7 +28,13 @@ It was an understandable boundary. The customer was otherwise highly cooperative
 
 Because transportation insurance had been purchased before shipment, the company's direction at this stage was to work through our freight forwarder and continue with the carrier and insurance process. Following that direction, I stayed in contact with the customer and the freight forwarder as the claim developed.
 
-# **The process kept moving**
+# **The Process Kept Moving, but the Problem Remained**
+
+By mid-June, the customer had already asked us to take back the damaged system and provide a replacement. I reported this request to the company.
+
+But replacing a high-value system was not a decision I could make myself. At that stage, the carrier and insurance processes were still active, and responsibility for the damage remained unclear. The company continued to watch how those channels developed while I handled the day-to-day communication with the customer and freight forwarder.
+
+Sometimes there was a clear next action. At other times, the next step depended on the carrier or insurer, and we had to wait for new information.
 
 The customer opened a claim with the international carrier. It was denied.
 
@@ -51,15 +54,7 @@ And yet one thing had not changed:
 
 **The process was moving, but the customer's problem was not being resolved.**
 
-# **The customer asked for a replacement**
-
-By mid-June, the customer had already asked us to take back the damaged system and provide a replacement. I reported this request to the company.
-
-But replacing a high-value system was not a decision I could make myself. At that stage, the carrier and insurance processes were still active, and responsibility for the damage remained unclear. The company continued to watch how those channels developed while I handled the day-to-day communication with the customer and freight forwarder.
-
-Sometimes there was a clear next action. At other times, the next step depended on the carrier or insurer, and we had to wait for new information.
-
-# **The situation changed in August**
+# **When the Situation Changed in August**
 
 By August, the damaged equipment had been unresolved for almost two months.
 
@@ -85,15 +80,13 @@ I reported this latest escalation to the company.
 
 After reviewing the situation, management approved the production of a replacement system and asked me to arrange it as soon as possible. The normal production cycle for this type of equipment was around three months, but the replacement was expedited.
 
-# **A practical resolution**
-
 By the end of September, the customer had helped arrange the return of the damaged system.
 
 In early October, the replacement finished production and testing. After the National Day holiday, the new system was shipped.
 
 The case that had started with a damaged delivery in June finally reached a practical resolution several months later.
 
-# **What stayed with me**
+# **What Stayed with Me**
 
 This case gave me a more realistic understanding of receiving procedures for industrial equipment.
 

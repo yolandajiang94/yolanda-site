@@ -1,6 +1,6 @@
 ---
 title: Home
-hideDate: true
+date: 2026-07-11
 ---
 
 # Hi, I'm Yolanda.

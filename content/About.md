@@ -1,5 +1,6 @@
 ---
 title: About
+date: 2026-07-11
 ---
 
 Hi, I'm Yolanda. This is my digital garden.

@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 In the summer of 2013, I had to make one of the first important decisions about my future: choosing a university and a major.
 
 I grew up in a rural area and had limited access to information or guidance about universities and careers at the time. I did not own a computer and rarely had access to the internet. Most of the information I could find came from occasional visits to internet cafés or the computer rooms at school.

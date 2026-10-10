@@ -1,3 +1,6 @@
+---
+date: 2026-07-18
+---
 For years, I knew that experience was worth reflecting on.
 
 As I spent more time working, I could feel that I understood customers better than when I first started. Things that once felt difficult gradually became familiar.

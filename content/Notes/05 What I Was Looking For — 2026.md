@@ -1,3 +1,6 @@
+---
+date: 2026-07-31
+---
 In July 2026, I left the industrial equipment company where I had worked for five years.
 
 At 32, I was preparing for another career transition. This time, I was not looking to leave industrial B2B sales. Instead, I wanted to continue in this field while finding a more sustainable way of working.

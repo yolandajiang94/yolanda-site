@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 In 2017, after graduating from university, I moved from Wuhan to Shenzhen.
 
 During university, I had heard that Shenzhen was a good place to start a career in foreign trade, and I saw some older students from my school move to Guangdong for work after graduation.

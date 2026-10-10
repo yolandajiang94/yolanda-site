@@ -1,3 +1,6 @@
+---
+date: 2026-07-21
+---
 _Rethinking What Business Development Means After_ _Eight Years_ _in Industrial B2B Sales_
 
 ## **When Sales Was Mostly About Execution**

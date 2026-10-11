@@ -1,5 +1,5 @@
 ---
-date: 2026-07-28
+date: 2026-07-20
 ---
 Some B2B projects are difficult because the technical requirements are complicated.
 

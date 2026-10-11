@@ -1,5 +1,5 @@
 ---
-date: 2026-08-07
+date: 2026-09-25
 ---
 I have always been someone who takes good care of the things I own.
 

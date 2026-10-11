@@ -1,5 +1,5 @@
 ---
-date: 2026-07-17
+date: 2026-07-19
 ---
 _Why consistent customer development matters even when nothing seems to be happening_
 

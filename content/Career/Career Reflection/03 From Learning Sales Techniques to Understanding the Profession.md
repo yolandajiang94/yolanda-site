@@ -1,5 +1,5 @@
 ---
-date: 2026-07-21
+date: 2026-07-15
 ---
 _Rethinking What Business Development Means After_ _Eight Years_ _in Industrial B2B Sales_
 

@@ -1,5 +1,5 @@
 ---
-date: 2026-08-22
+date: 2026-10-02
 ---
 I have always had a tendency to make things feel more complicated before I even begin. Especially when it is important, or when past experience tells me that it may not be easy to handle, I can quickly get the sense that certain parts may be difficult or require a lot of back-and-forth. I may not know exactly what the difficulties are yet, but I already expect it to be a lot of work.
 

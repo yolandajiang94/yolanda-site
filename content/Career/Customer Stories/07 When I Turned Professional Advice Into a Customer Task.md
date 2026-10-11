@@ -1,5 +1,5 @@
 ---
-date: 2026-08-03
+date: 2026-07-20
 ---
 I once handled an equipment order for a Canadian university.
 

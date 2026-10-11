@@ -1,5 +1,5 @@
 ---
-date: 2026-07-20
+date: 2026-07-17
 ---
 ## **Beyond Delivery**
 

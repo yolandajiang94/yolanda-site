@@ -1,5 +1,5 @@
 ---
-date: 2026-09-19
+date: 2026-09-20
 ---
 After years in overseas B2B sales, I gradually developed a strong belief:
 

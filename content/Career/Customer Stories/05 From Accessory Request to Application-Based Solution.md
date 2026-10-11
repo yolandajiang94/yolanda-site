@@ -1,5 +1,5 @@
 ---
-date: 2026-07-25
+date: 2026-07-18
 ---
 A university laboratory had been using battery testing systems purchased at different stages.
 

@@ -1,5 +1,5 @@
 ---
-date: 2026-08-15
+date: 2026-09-27
 ---
 I used to explain things very easily.
 

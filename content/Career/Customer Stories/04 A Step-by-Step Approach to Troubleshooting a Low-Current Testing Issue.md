@@ -1,5 +1,5 @@
 ---
-date: 2026-07-23
+date: 2026-07-18
 ---
 A research customer once contacted me about two battery testing units that seemed to behave differently from the others in their lab.
 

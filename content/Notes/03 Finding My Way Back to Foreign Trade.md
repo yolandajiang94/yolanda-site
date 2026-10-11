@@ -1,5 +1,5 @@
 ---
-date: 2026-07-22
+date: 2026-07-23
 ---
 After leaving my first company in 2020, I moved into a domestic sales role in the health management industry, mainly because I was interested in the industry. I had not thought carefully about whether the role itself suited me.
 

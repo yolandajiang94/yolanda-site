@@ -89,6 +89,26 @@ There were also some minor delays related to materials and production.
 
 Eventually, the customized components were completed and delivered to the customer.
 
+After the accessories arrived in late November 2024, I followed up with the customer:
+
+Had the fixtures arrived?
+
+Did the copper busbar fit properly?
+
+The customer replied that everything had been received and tested, and no issue was found at that moment.
+
+However, later that same day, they sent another testing curve and reported a new phenomenon during actual operation.
+
+So the communication continued.
+
+This is actually a very common situation with industrial equipment.
+
+Once equipment enters real application, one issue may be solved and experiments continue; as experiments continue, new questions may appear.
+
+The equipment is no longer just a product delivered to the customer.
+
+It becomes part of their ongoing work.
+
 At the end of 2023, what arrived in Boston was:
 
 8 crates of battery cyclers and chambers.
@@ -112,28 +132,6 @@ The nature of the work was also different.
 The first time, we helped a newly established laboratory build its testing capability.
 
 This time, we helped an existing customer continue using their current system for new research needs.
-
-## **When Equipment Becomes Part of the Customer’s Work**
-
-After the accessories arrived in late November 2024, I followed up with the customer:
-
-Had the fixtures arrived?
-
-Did the copper busbar fit properly?
-
-The customer replied that everything had been received and tested, and no issue was found at that moment.
-
-However, later that same day, they sent another testing curve and reported a new phenomenon during actual operation.
-
-So the communication continued.
-
-This is actually a very common situation with industrial equipment.
-
-Once equipment enters real application, one issue may be solved and experiments continue; as experiments continue, new questions may appear.
-
-The equipment is no longer just a product delivered to the customer.
-
-It becomes part of their ongoing work.
 
 ## **A Relationship That Continued Through Change**
 

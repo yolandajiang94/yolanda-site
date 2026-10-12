@@ -13,10 +13,6 @@ The customer may not have an active project. There may be no budget yet. Or they
 
 That does not make the work before the opportunity appears unnecessary.
 
-After years of doing proactive sales development, I have come to see much of the job in simpler terms:
-
-**Find the right customers. Keep a reliable record. Stay in touch with a reasonable rhythm. And when an opportunity finally appears, make sure you are still there.**
-
 ## **Deciding Who Is Worth Developing**
 
 Toward the end of 2025, I started reorganizing my customer database and building a more focused list of target accounts.
@@ -37,17 +33,7 @@ Good targeting cannot tell me who will buy.
 
 A professor whose research is highly relevant to our products may have no purchasing plan today. Another laboratory may receive funding or start a new project several months later.
 
-So customer selection does not answer:
-
-Who is ready to buy now?
-
-It answers:
-
-**Who is worth keeping in my development pipeline?**
-
-Those are different questions.
-
-## **Keeping the Right Customers in View**
+What customer selection helps me decide is who is worth keeping in my development pipeline.
 
 Once I identified a relevant prospect, I kept the development history and stayed in touch over time.
 
@@ -113,17 +99,9 @@ That was enough to reinforce something important for me:
 
 **No response is not the same as no potential.**
 
-A customer not replying tells me that I did not receive a response at that particular moment.
-
 It does not automatically tell me that the customer is a poor fit.
 
-## **Customer Fit and Customer Timing Are Different Things**
-
-In proactive sales, it is easy to judge prospects through immediate feedback.
-
-A reply feels like validation. Silence can feel like a sign that the customer is not interested.
-
-But in long-cycle industrial B2B sales, I have learned to separate two questions.
+In long-cycle industrial B2B sales, I have learned to separate two questions.
 
 Is this customer genuinely relevant to what we sell?
 
@@ -135,59 +113,18 @@ That is **customer timing**.
 
 A customer can be a strong fit and still have the wrong timing.
 
-The professor did not reply in January. He still did not reply in March. But when a real purchasing need appeared later, it confirmed that my original decision to keep him as a target customer had not been unreasonable.
-
-The missing piece had been timing.
-
-If the process is always:
-
-Find a new customer → Send one email → No reply → Move on
-
-then it becomes very easy to confuse **wrong timing** with **wrong customer**.
-
-A simple and reliable development system helps keep those two things separate.
-
 ## **The Basic Work Before an Opportunity Exists**
 
 There is nothing particularly remarkable about this case.
 
 I did not change the customer's decision through a brilliant negotiation. I did not use a special sales technique to create demand that did not already exist.
 
-The lab needed more testing capacity because of its own research and development.
-
 What I did was much more ordinary:
 
 **Screen. Record. Reach out. Receive no response. Show up again later.**
 
-This is basic proactive sales work.
+This is basic proactive sales work. Much of the time, there is no visible result on the day the work is done.
 
-And much of the time, there is no visible result on the day the work is done.
+I cannot control when a customer develops a real purchasing need. What I can do is identify relevant customers, keep a reliable record, and stay in touch with a reasonable rhythm.
 
-That used to be difficult for me to evaluate. It is natural to look at immediate results: How many people replied? Did anyone ask for a quotation? Did any real projects appear?
-
-Those metrics still matter.
-
-But not every useful development action produces an immediate response.
-
-A well-matched prospect may simply have no project or budget today. More outreach cannot create a need that does not exist, just as repeatedly contacting a poor-fit customer will not turn them into a good prospect.
-
-What I can control is more limited:
-
-**Am I targeting the right customers?**
-
-**Am I keeping the good ones in my development system?**
-
-**Am I staying in touch with a reasonable rhythm?**
-
-The timing of the customer's actual need belongs largely to the customer.
-
-That is why I no longer see proactive sales simply as a process of creating opportunities.
-
-A large part of it is quieter than that.
-
-It is doing the basic work before an opportunity exists — and making sure that when the customer's timing finally changes, I have not disappeared too early.
-
-**Target the right customers.**  
-**Keep a reliable record.**  
-**Stay in touch with a reasonable rhythm.**  
-**Be present when the opportunity appears.**
+Sometimes, that is what proactive sales comes down to: doing the basic work before an opportunity exists, and making sure I have not disappeared when the customer's timing finally changes.

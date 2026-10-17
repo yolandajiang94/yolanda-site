@@ -1,5 +1,5 @@
 ---
-date: 2026-09-20
+date: 2026-09-12
 ---
 After years in overseas B2B sales, I gradually developed a strong belief:
 
@@ -67,7 +67,7 @@ So when I started realizing customer development could be broken down, recorded,
 
 Part of me resisted it.
 
-**If this work could actually be systemized, did that mean I had been doing it inefficiently for years?**
+**If this work could actually be systemized, had I been doing it the hard way all those years?**
 
 But accepting that a familiar way of working could be improved also meant accepting something important:
 
@@ -195,10 +195,6 @@ This first month was only a small test.
 
 It does not prove what sales results this approach will eventually create.
 
-But it showed me something valuable:
-
-A working method developed through experience can be transferred to a new environment.
-
 The outcome is still uncertain.
 
 But the process is clearer.
@@ -207,7 +203,7 @@ But the process is clearer.
 
 I still do not believe sales can be completely systemized.
 
-Especially in industrial B2B sales, many factors remain outside a salesperson’s control.
+Especially in industrial B2B sales, many factors remain outside a salesperson's control.
 
 Customer timing.
 
@@ -219,15 +215,11 @@ Procurement changes.
 
 Competition.
 
-These uncertainties will always exist.
+A pipeline does not remove these uncertainties.
 
-Developing ten companies today does not mean receiving an order next month.
+But for years, I had confused two different things:
 
-A pipeline does not remove uncertainty.
-
-But I used to combine two different ideas:
-
-Because the outcome is unpredictable, the process cannot be managed.
+Because the outcome was unpredictable, I assumed the process could not be managed.
 
 Now I see them separately.
 
@@ -235,18 +227,12 @@ I cannot make sales predictable.
 
 But I can make my work process clearer.
 
-I can understand where my time goes, what is generating feedback, what needs adjustment, and when to stop and rethink.
-
-This does not replace experience.
-
-It gives experience a better structure.
+This does not replace experience. It gives experience a better structure.
 
 After many years in sales, I am slowly letting go of one explanation I used to believe:
 
-**“That is just how this work is.”**
+“That is just how this work is.”
 
 Some uncertainty is part of sales.
 
 But some disorder is not.
-
-**Unpredictable outcomes do not mean an unmanageable process.**

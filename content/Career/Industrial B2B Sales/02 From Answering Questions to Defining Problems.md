@@ -73,7 +73,7 @@ For the first time, I was consciously telling myself:
 
 Sometimes we can only go so far with the evidence we have.
 
-## **When the Evidence Changed, So Did the Problem**
+## **New Evidence, New Direction**
 
 The customer was not upset by the boundary.
 

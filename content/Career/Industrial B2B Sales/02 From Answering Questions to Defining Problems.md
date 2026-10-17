@@ -71,7 +71,7 @@ For the first time, I was consciously telling myself:
 
 **An unanswered question does not always mean that the same investigation should continue in the same direction.**
 
-Sometimes we can only go so far with the evidence we have.
+Sometimes we can only go so far with the information we have.
 
 ## **When the Evidence Arrived**
 

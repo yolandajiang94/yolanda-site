@@ -80,7 +80,7 @@ It took a little over ten minutes by bus to reach a nearby town.
 
 It was not prosperous, but it had a strong sense of everyday life. The pace was slow, and I always enjoyed going there.
 
-There was a spacious Starbucks there. The surrounding buildings were low, giving it an open, bright view, and outside was a wide street with little traffic. Sitting by the window, I felt deeply relaxed.
+There was a spacious, bright Starbucks surrounded by low-rise buildings. Its outdoor seating area faced a wide street with very little traffic. I usually sat facing outside, enjoying the open view. I felt calm there.
 
 By then, most of my job-search preparation was done, so I spent more time on my digital garden.
 

@@ -77,7 +77,7 @@ On the third evening, I took a rideshare from Huicheng back to Daya Bay, where I
 
 As I sat in the car and watched the streets and urban landscapes change outside the window, I felt a very particular sense of movement.
 
-I had just left a job I had been in for five years, and it had often been stressful. For the moment, I felt much lighter, with more space to think about where I wanted to go next.
+I had just left a job I had been in for five years, and it had weighed on my mind for a long time. For the moment, I felt much lighter, with more space to think about where I wanted to go next.
 
 I did not yet know where my next job would be, and for the moment, I was not tied to any particular place by work.
 

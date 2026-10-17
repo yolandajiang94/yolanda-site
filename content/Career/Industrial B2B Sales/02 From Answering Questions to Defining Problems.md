@@ -75,7 +75,7 @@ Sometimes we can only go so far with the information we have.
 
 ## **When the Evidence Arrived**
 
-The customer was not upset by the boundary.
+The customer did not express any frustration with my response.
 
 She tested again.
 

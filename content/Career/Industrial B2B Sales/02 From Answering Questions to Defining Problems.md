@@ -11,9 +11,7 @@ If I could not answer a technical question myself, I would go to after-sales or 
 
 There was good reason for this instinct. Sales is often the customer's main connection to the company, and pushing internal resources to help customers is part of the job.
 
-But one case made me realize that something was missing from this logic:
-
-**A customer raising a problem does not necessarily mean that a product problem has already been established.**
+But one case made me question whether continuing to push was always the right next step.
 
 ## **A Question I Found Difficult to Stop Asking**
 
@@ -63,12 +61,6 @@ The tests were outside the specified operating range, and we did not yet have th
 
 A customer having a question and the company having an established product problem to investigate are not always the same thing.
 
-My job was not only to push a problem forward.
-
-I also had to decide whether the problem, as currently defined, had enough evidence behind it.
-
-## **Setting a Boundary**
-
 I eventually wrote back to the customer and explained that the lowest current range was **5 μA–1 mA**, and that the 2 μA test was below the specified range. I also noted that this specification had been provided earlier.
 
 Instead of continuing to promise an explanation for the behavior at 2 μA, I asked her to test again within the specified range.
@@ -79,7 +71,7 @@ For the first time, I was consciously telling myself:
 
 **An unanswered question does not always mean that the same investigation should continue in the same direction.**
 
-Sometimes the evidence only allows the problem to go so far.
+Sometimes we can only go so far with the evidence we have.
 
 ## **When the Evidence Changed, So Did the Problem**
 
@@ -103,28 +95,8 @@ The evidence changed, so our response changed with it.
 
 This experience changed how I think about customer problems.
 
-In the past, when a customer said:
-
-“The equipment has a problem.”
-
-my instinct was to ask:
-
-**How do we solve it?**
-
-Now I try to ask one question first:
-
-**What problem has actually been established?**
-
 A customer's observation deserves attention. But an observation, an interpretation, and a confirmed product problem are not the same thing.
 
-Good customer service still means taking concerns seriously and pushing internally when needed. What changed for me was the belief that every unanswered question must be pursued until the company produces an answer.
+Good customer service still means taking concerns seriously and pushing internally when needed. But it also means recognizing when more evidence is needed before an investigation can go further.
 
-Sometimes good judgment means continuing to push.
-
-Sometimes it means recognizing:
-
-**Based on the evidence we have now, we need better information before taking the investigation further.**
-
-And when better evidence appears, we can open it again.
-
-For me, that is also part of defining the problem — and part of the salesperson's responsibility.
+For me, knowing when to keep pushing and when to ask for better evidence is also part of a salesperson's responsibility.

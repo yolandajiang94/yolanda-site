@@ -1,13 +1,11 @@
 ---
 date: 2026-07-24
 ---
-_When a specification gap looks obvious, the harder question may be whether the two specifications are describing the same capability._
+_Why comparing specifications is not always as simple as it seems._
 
 In technical B2B sales, specification matching often seems straightforward: take the customer's requirement, find the corresponding parameter in the datasheet, and compare the numbers.
 
-But that only works when the two parameters actually mean the same thing in the customer's application.
-
-I learned this through a battery testing project where the mismatch looked obvious from the beginning—and still took several rounds of clarification before I could trust the conclusion.
+But one battery testing project made me question whether the comparison was always that simple.
 
 ## **The Numbers Seemed to Give Me the Answer**
 
@@ -39,7 +37,7 @@ The same datasheet contained response and conversion times that were much faster
 
 At that point, I did not fully understand how step time, current response, current conversion, and the customer's dynamic profile related to one another.
 
-So the gap between <10 ms and 100 ms was a strong warning sign, but not yet a product boundary I felt I understood.
+So the gap between <10 ms and 100 ms was a strong warning sign, but I was not yet confident enough to treat it as a confirmed product limitation.
 
 ## **What Did the Customer Mean by “Fast”?**
 
@@ -89,15 +87,13 @@ That clarification finally gave the numbers a clear place in the application:
 
 **100 ms** was the minimum programmed step time of our standard system.
 
-I was no longer comparing two similar-looking terms simply because they both contained the words “step time.” I could now connect the product specification to the way the customer actually defined and ran their profiles.
+I could now connect the product specification to the way the customer actually defined and ran their profiles.
 
 ## **Fast Response Was Not the Same as Fast Step Execution**
 
 There was still another distinction that mattered.
 
 Our system's **≤5 ms current response time** looked fast enough to be relevant to a highly dynamic test. But it did not remove the **100 ms minimum programmed step time**.
-
-These parameters described different aspects of system performance.
 
 A system can respond quickly to a change in current without being able to execute a newly programmed step at the same interval.
 
@@ -129,21 +125,9 @@ My initial “no” came from comparing two specifications that appeared to corr
 
 My final “no” came after I understood enough of the customer's application to know that the comparison itself was meaningful.
 
-That difference matters in technical sales.
-
 ## **A Specification Gap Is Not Yet a Product Boundary**
 
-Datasheets are essential in industrial sales, but specification matching is not always a matter of finding two numbers and deciding which one is larger.
-
-Before comparing them, I need to ask:
-
-**Are these two parameters actually describing the same capability?**
-
-Sometimes the answer is immediately clear. Sometimes the terminology is similar while the underlying performance dimensions are not.
-
-And sometimes, as in this case, I do not fully understand the distinction at the beginning.
-
-I did not need to become an expert in every technical detail before continuing the conversation. But I did need to keep clarifying the requirement until I understood enough to know **what I was comparing and why the comparison supported the decision**.
+I did not need to become an expert in every technical detail before continuing the conversation. But I did need to keep clarifying the requirement until I understood enough to know what I was comparing and why the comparison supported the decision.
 
 Deeper requirement understanding does not always reveal a hidden solution.
 

@@ -57,13 +57,7 @@ For years, I had associated this persistence with being responsible to the custo
 
 This time, however, I began to see another responsibility: **before continuing an investigation, I needed to be clear about what the available evidence actually supported.**
 
-The tests were outside the specified operating range, and we did not yet have the raw data needed to verify the reported difference between the eight units. At that point, the more useful next step was not to keep searching for an explanation, but to ask the customer to test again within the specified range.
-
-A customer having a question and the company having an established product problem to investigate are not always the same thing.
-
-I eventually wrote back to the customer and explained that the lowest current range was **5 μA–1 mA**, and that the 2 μA test was below the specified range. I also noted that this specification had been provided earlier.
-
-Instead of continuing to promise an explanation for the behavior at 2 μA, I asked her to test again within the specified range.
+I eventually wrote back to the customer, explaining that the lowest current range was 5 μA–1 mA, as stated in the earlier quotation, and that the 2 μA test was below that range. I asked her to test again within the specified range rather than continuing to seek an explanation for the behavior at 2 μA.
 
 It was a simple email, but for me it was a difficult decision.
 

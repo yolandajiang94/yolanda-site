@@ -69,7 +69,7 @@ Part of me resisted it.
 
 **If this work could actually be systemized, had I been doing it the hard way all those years?**
 
-But accepting that a familiar way of working could be improved also meant accepting something important:
+Accepting that a familiar way of working could be improved also meant accepting something important:
 
 Some inefficiency I considered part of the industry was not inevitable.
 

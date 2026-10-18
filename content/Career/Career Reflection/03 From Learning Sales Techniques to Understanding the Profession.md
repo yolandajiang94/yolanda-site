@@ -241,4 +241,4 @@ They develop through years of observing markets, talking to people, working on p
 
 **I am still learning. But I now have a much clearer idea of what I am trying to learn.**
 
-**For me, that marks the beginning of a different stage in my career.**
+*For me, that marks the beginning of a different stage in my career.*

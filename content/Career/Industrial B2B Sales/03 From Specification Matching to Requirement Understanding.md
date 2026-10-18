@@ -1,7 +1,7 @@
 ---
 date: 2026-07-24
 ---
-_Why comparing specifications is not always as simple as it seems._
+_Why comparing specifications is not always as simple as it seems_
 
 In technical B2B sales, specification matching often seems straightforward: take the customer's requirement, find the corresponding parameter in the datasheet, and compare the numbers.
 

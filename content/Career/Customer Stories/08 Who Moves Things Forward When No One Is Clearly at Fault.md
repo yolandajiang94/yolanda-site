@@ -55,7 +55,7 @@ And yet one thing had not changed:
 
 **The customer still did not have a usable system.**
 
-**The process was moving, but the customer's problem was not being resolved.**
+The process was moving, but the customer's problem was not being resolved.
 
 # **When the Situation Changed in August**
 

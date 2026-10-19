@@ -65,4 +65,4 @@ Looking back, trusting the freight forwarder's expertise was not the problem. I 
 
 What I could have done better was to revisit the original assumption when repeated follow-ups led nowhere, rather than continuing to push the customer toward the same action.
 
-**When something repeatedly fails to move forward, don't just follow up again. Go back and check whether what you are pushing for is actually the right next step.**
+When something repeatedly fails to move forward, don't just follow up again. Go back and check whether what you are pushing for is actually the right next step.

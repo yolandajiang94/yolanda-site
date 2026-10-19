@@ -91,4 +91,4 @@ None of these actions were extraordinary. But long sales cycles are often shaped
 
 For me, persistence in industrial B2B sales is not about following up more often or holding on to every opportunity at any cost.
 
-**It is about staying close enough to notice when something changes, protecting the value of the work already invested, and being willing to adjust the next action as new information emerges.**
+It is about staying close enough to notice when something changes, protecting the value of the work already invested, and being willing to adjust the next action as new information emerges.

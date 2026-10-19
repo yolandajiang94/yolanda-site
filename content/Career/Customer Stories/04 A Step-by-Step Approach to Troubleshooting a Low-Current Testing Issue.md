@@ -117,4 +117,4 @@ There was no single moment when the answer suddenly became obvious.
 
 The issue became clearer through a series of smaller questions:
 
-**What do we actually know? Does the current evidence still support our previous explanation? And what can we test next to narrow the problem down further?**
+What do we actually know? Does the current evidence still support our previous explanation? And what can we test next to narrow the problem down further?

@@ -13,9 +13,7 @@ Once one thing is finished, the next one is already waiting.
 
 So for a long time, much of my experience accumulated in a simple way:
 
-**Something happened. I dealt with it. Then I moved on.**
-
-I knew I was gaining experience, but much of it remained tied to individual situations. I rarely stopped to ask what those experiences had actually left me with.
+Something happened. I dealt with it. Then I moved on.
 
 ## **Stepping Outside the Flow of Daily Work**
 

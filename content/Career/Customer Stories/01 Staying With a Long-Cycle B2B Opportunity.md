@@ -21,7 +21,7 @@ There was no dramatic breakthrough. The project simply remained open.
 
 I continued to keep track of the project rather than treating the absence of an immediate order as the end of the opportunity.
 
-**In April, trade conditions between China and the United States changed rapidly, with tariffs becoming an increasing concern.**
+In April, trade conditions between China and the United States changed rapidly, with tariffs becoming an increasing concern.
 
 It would have been easy to assume that the rising cost and uncertainty would cause the customer to stop the project.
 

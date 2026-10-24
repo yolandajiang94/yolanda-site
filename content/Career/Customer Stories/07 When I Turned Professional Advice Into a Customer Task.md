@@ -33,7 +33,7 @@ So I sent another reminder.
 
 What confused me at the time was:
 
-**Why wasn't the customer taking action?**
+Why wasn't the customer taking action?
 
 From my perspective, the next step seemed clear. The freight forwarder had told me what the customer needed to do, and I had passed that information on.
 

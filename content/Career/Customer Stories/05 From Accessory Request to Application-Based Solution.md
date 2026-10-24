@@ -5,7 +5,7 @@ A university laboratory had been using battery testing systems purchased at diff
 
 In October of the previous year, the laboratory purchased a new battery testing system from us. In May, the customer contacted me again with a new request:
 
-**“We are planning to purchase 18650 and 21700 cylindrical cell holders for our existing machine.”**
+“We are planning to purchase 18650 and 21700 cylindrical cell holders for our existing machine.”
 
 At first, this appeared to be a straightforward accessory inquiry. However, when I reviewed the system purchased the previous October, I found that it had already been equipped for cylindrical cell testing, including the required holders and cables.
 

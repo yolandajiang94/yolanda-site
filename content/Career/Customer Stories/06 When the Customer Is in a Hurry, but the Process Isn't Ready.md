@@ -3,7 +3,7 @@ date: 2026-07-20
 ---
 Some B2B projects are difficult because the technical requirements are complicated.
 
-Others are difficult for a much simpler reason: **the customer is in a hurry.**
+Others are difficult for a much simpler reason: the customer is in a hurry.
 
 I had one of those experiences while handling an equipment order for a research team at a university in South Korea.
 
@@ -11,7 +11,7 @@ The equipment itself was a standard product, and the delivery eventually went sm
 
 My main contact was a postdoctoral researcher. From very early in the project, he had one clear priority:
 
-**He wanted the equipment as soon as possible.**
+He wanted the equipment as soon as possible.
 
 I understood that.
 
@@ -39,11 +39,11 @@ That changed the situation.
 
 The question was no longer:
 
-**When will the PO arrive?**
+When will the PO arrive?
 
 It became:
 
-**What formal documentation can we use instead so that the order can move forward properly?**
+What formal documentation can we use instead so that the order can move forward properly?
 
 I confirmed the requirements internally, communicated with the university by email, obtained the necessary confirmation from the professor, and applied internally to proceed without a standard PO.
 
@@ -67,17 +67,17 @@ the equipment, the shipment, and the tax invoice.
 
 He wanted all of them as soon as possible.
 
-From my side, however, I had to separate **what the customer ultimately wanted** from **what could actually be done at that moment**.
+From my side, however, I had to separate what the customer ultimately wanted from what could actually be done at that moment.
 
 Throughout the project, I kept coming back to four questions:
 
-**Where is the order actually at right now?**
+Where is the order actually at right now?
 
-**What needs to happen before we can move to the next step?**
+What needs to happen before we can move to the next step?
 
-**What can I prepare in advance?**
+What can I prepare in advance?
 
-**What cannot be done yet?**
+What cannot be done yet?
 
 Those questions became the structure behind how I managed the order.
 
@@ -105,7 +105,7 @@ I kept the customer updated at key stages throughout the process.
 
 This was important because the customer often wanted to jump directly to the final question:
 
-**When will I receive the equipment?**
+When will I receive the equipment?
 
 But my job was to keep translating that question into the next step we could actually complete.
 
@@ -123,11 +123,11 @@ At the same time, I avoided giving him certainty that I did not yet have.
 
 Instead of responding to urgency with another promise, I responded with progress:
 
-**This is where we are now.**
+This is where we are now.
 
-**This is what has just been completed.**
+This is what has just been completed.
 
-**This is what comes next.**
+This is what comes next.
 
 That gave the customer visibility into a process that he could not see from his side.
 

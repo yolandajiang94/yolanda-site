@@ -27,7 +27,7 @@ The contrast was even clearer when I prepared my résumé.
 
 I joined my previous company in July 2021 and left in July 2026. After five years away from the job market, I was looking for work again at 32, with nine years of experience. Instinctively, I felt that this résumé had to be very good. But I had no clear idea what “very good” actually meant. The more important I thought it was, the less I knew where to begin, so I delayed it for several days.
 
-Once I started, it was much simpler than I had imagined. On the first day, I spent about an hour organizing the timeline and main responsibilities from my previous jobs. The next day, I spent another hour or so finding a suitable template, putting the content into it, and making some adjustments. That was basically it. **There was only so much I could do with a résumé.** 
+Once I started, it was much simpler than I had imagined. On the first day, I spent about an hour organizing the timeline and main responsibilities from my previous jobs. The next day, I spent another hour or so finding a suitable template, putting the content into it, and making some adjustments. That was basically it. There was only so much I could do with a résumé.
 
 ## **Problems Without Natural Boundaries**
 
@@ -45,7 +45,7 @@ But this time, I started thinking: maybe it really can be this simple. I can und
 
 My digital garden showed me another change. I am willing to read and learn the English articles on my own website because they are about my work, my experiences, and things I genuinely want to express.
 
-In the past, I often learned English materials first, hoping I might use them someday. Now the order is sometimes reversed: **I already have something I want to say, and then I learn how to say it in English.**
+In the past, I often learned English materials first, hoping I might use them someday. Now the order is sometimes reversed: I already have something I want to say, and then I learn how to say it in English.
 
 My spoken English is still a work in progress, but I now have a clearer idea of what I actually need to learn.
 
@@ -75,4 +75,4 @@ Looking back at these problems of very different scales, I am learning to start 
 
 Some boundaries only appear after I start. Some need to be defined by me. And for some long-term questions, there is simply no way to know the endpoint yet.
 
-I don't need to deal with the entire task I have imagined. I only need to deal with the problem that actually exists in front of me. For questions that do not have answers yet, I can take the next step, let reality give me new information, and decide from there.
+**I don't need to deal with the entire task I have imagined. I only need to deal with the problem that actually exists in front of me.** For questions that do not have answers yet, I can take the next step, let reality give me new information, and decide from there.

@@ -19,7 +19,7 @@ If I saw a problem, I wanted to solve it. If I noticed uncertainty, I wanted to 
 
 These responses often happened so quickly that I rarely stopped to ask myself:
 
-**Do I really need to handle this?**
+Do I really need to handle this?
 
 ## **I Was Responding, Not Choosing**
 
@@ -47,7 +47,7 @@ These abilities have helped me a lot, so I do not want to reject them. The probl
 
 What I am beginning to question is:
 
-**How much of what I do comes from a real choice, and how much comes from habit?**
+How much of what I do comes from a real choice, and how much comes from habit?
 
 ## **Pausing Between Impulse and Response**
 
@@ -57,11 +57,11 @@ In fact, I want to create a little more space between impulse and response.
 
 Before:
 
-**Impulse → Response**
+Impulse → Response
 
 What I hope to practice:
 
-**Impulse → Pause → Choice**
+Impulse → Pause → Choice
 
 When I want to explain, I can wait before explaining.
 
@@ -81,9 +81,9 @@ What happens if I do nothing?
 
 Sometimes, after pausing, I may still choose to explain, handle the problem, or take action. The difference is that this time, the response comes from a choice rather than habit.
 
-**I can explain, but I don't have to.**
+I can explain, but I don't have to.
 
-**I can do it, but I can choose not to.**
+I can do it, but I can choose not to.
 
 ## **Less Automatic Response**
 
@@ -95,7 +95,7 @@ It is not a change I have already completed. I feel that I have only just begun 
 
 But over the next six months to a year, I want to consciously practice something different:
 
-**Less instinctive response. Less immediate action.**
+Less instinctive response. Less immediate action.
 
 Not doing less for the sake of doing less, but no longer automatically taking responsibility for everything I can see, understand, or handle.
 
@@ -105,4 +105,4 @@ But at this stage of my life, growth may not mean doing more or thinking more.
 
 Sometimes, what I need to practice is pausing, and then choosing again.
 
-**Slowing down is also a skill.**
+Slowing down is also a skill.

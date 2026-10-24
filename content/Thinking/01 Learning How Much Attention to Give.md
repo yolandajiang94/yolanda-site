@@ -55,7 +55,7 @@ They were all very ordinary things: a bucket, a washbasin, a small trash bin I h
 
 My friend said it would be easy to buy these things again in Dongguan.
 
-My thinking was simple: **they are already here, and if I can keep using them, I might as well bring them with me.** 
+My thinking was simple: they are already here, and if I can keep using them, I might as well bring them with me.
 
 While I was temporarily staying in Huizhou, I couldn't find that soap dish one day. I had wanted to use it, and when I realized it was missing, I did feel a little uncomfortable. But the feeling passed quickly. I told myself it was fine. It was just a small thing.
 

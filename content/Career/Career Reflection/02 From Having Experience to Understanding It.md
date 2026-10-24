@@ -23,13 +23,13 @@ But over the past year, as my work became less intense, I had more time and spac
 
 Before, I focused more on:
 
-**What should I do next?**
+What should I do next?
 
 Now, I also ask:
 
-**What actually happened?**
+What actually happened?
 
-**What did this experience leave me with?**
+What did this experience leave me with?
 
 It seems like a small change, but it changed the way I understand my work.
 
@@ -51,7 +51,7 @@ At first, the goal was simply to prepare for interviews. But after reviewing sev
 
 I used to think:
 
-**If an order was successfully completed, it was a good experience.**
+If an order was successfully completed, it was a good experience.
 
 But success alone does not tell the whole story.
 
@@ -61,7 +61,7 @@ It is a real sale and a real result.
 
 But when I ask:
 
-**What judgment did I actually make in this case?**
+What judgment did I actually make in this case?
 
 Sometimes, there is no particularly clear answer.
 
@@ -69,7 +69,7 @@ The cases that gave me more to think about were often the ones where I had to un
 
 Over time, I began to see experience through a simple structure:
 
-**Problem → Information → Judgment → Action → Result**
+Problem → Information → Judgment → Action → Result
 
 Before, I simply went through these processes.
 
@@ -89,9 +89,9 @@ Years of supporting the same customer simply felt like this: the customer had a 
 
 But when I looked back at these experiences years later, I began to see something different.
 
-**What mattered was not one particular action.**
+What mattered was not one particular action.
 
-**It was how I understood the customer, judged the situation, coordinated resources, and kept things moving throughout the process.**
+It was how I understood the customer, judged the situation, coordinated resources, and kept things moving throughout the process.
 
 Many abilities do not reveal themselves in one especially important moment.
 
@@ -121,11 +121,11 @@ What I want to keep are the smaller number of ideas that survive reflection, con
 
 The process is less about recording more, and more about understanding what is worth recording:
 
-**What is actually worth keeping?**
+What is actually worth keeping?
 
 So this is how I now think about it:
 
-**Experience → Looking Back → Breaking It Down → Understanding → Keeping What Matters**
+Experience → Looking Back → Breaking It Down → Understanding → Keeping What Matters
 
 Writing comes at the end, not the beginning.
 
@@ -137,9 +137,9 @@ Actually dealing with customers, handling projects, facing uncertainty, making m
 
 But I no longer believe that simply having more experiences will automatically lead to deeper understanding.
 
-**Experience provides the material.**
+Experience provides the material.
 
-**Reflection helps me see what is actually inside it.**
+Reflection helps me see what is actually inside it.
 
 The change I want to make is simple:
 

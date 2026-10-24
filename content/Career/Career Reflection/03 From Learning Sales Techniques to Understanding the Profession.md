@@ -53,11 +53,11 @@ This made me realize that customer relevance and business opportunity are two di
 
 A better question is not only:
 
-**"Is this the right company?"**
+"Is this the right company?"
 
 It is also:
 
-**"Why might this company need something now?"**
+"Why might this company need something now?"
 
 That shift changed the way I began to think about business development.
 
@@ -239,6 +239,6 @@ They cannot be mastered by reading a few examples.
 
 They develop through years of observing markets, talking to people, working on projects, making mistakes, and reflecting on what actually creates opportunities.
 
-**I am still learning. But I now have a much clearer idea of what I am trying to learn.**
+I am still learning. But I now have a much clearer idea of what I am trying to learn.
 
-*For me, that marks the beginning of a different stage in my career.*
+For me, that marks the beginning of a different stage in my career.

@@ -39,7 +39,7 @@ I had simply become used to the idea that “good enough was enough.” A smalle
 
 Only years later did I realize how used I had become to adapting to what I had. I rarely asked myself:
 
-**If I had more choices, what kind of place would I actually want to live in every day?**
+If I had more choices, what kind of place would I actually want to live in every day?
 
 ## **When the Space Started Supporting My Life**
 
@@ -84,7 +84,7 @@ When friends saw the photos I took, some of them even thought I was living in a 
 
 By then, I had become much clearer about the kind of living environment I wanted:
 
-**A spacious home with plenty of natural light, a square and open layout, a low-rise residential community, and a good natural environment.**
+A spacious home with plenty of natural light, a square and open layout, a low-rise residential community, and a good natural environment.
 
 I am not particularly drawn to living in the city center, nor do I care much about luxurious interiors or expensive furniture.
 

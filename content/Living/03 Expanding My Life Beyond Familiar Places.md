@@ -11,7 +11,7 @@ When everything becomes familiar, it is easy to simply keep living the same way.
 
 Sometimes, we get so busy living our lives that we forget to ask ourselves:
 
-**Is the life we have built still the life we truly want?**
+Is the life we have built still the life we truly want?
 
 ## **A Year When Everything Started to Change**
 
@@ -33,7 +33,7 @@ For a long time, many parts of my life had remained unchanged because changing t
 
 But when my home, relationship, and work all changed within a matter of months, I began to realize:
 
-**Maybe my life was not as fixed as I had imagined.**
+Maybe my life was not as fixed as I had imagined.
 
 ## **Looking Beyond Shenzhen**
 
@@ -45,7 +45,7 @@ But this year, as I began considering a job change, I took a closer look at the 
 
 That led me to a question I had rarely considered seriously before:
 
-**If the right opportunity is not in Shenzhen, do I really need to stay in Shenzhen?**
+If the right opportunity is not in Shenzhen, do I really need to stay in Shenzhen?
 
 After leaving my previous company, I began looking at the next stage of my career across a wider area. Dongguan came into view, and I found opportunities there that were also aligned with the direction I wanted to take.
 

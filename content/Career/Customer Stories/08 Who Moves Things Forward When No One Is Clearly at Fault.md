@@ -53,7 +53,7 @@ For weeks, there was activity on all sides. The customer was providing informati
 
 And yet one thing had not changed:
 
-**The customer still did not have a usable system.**
+The customer still did not have a usable system.
 
 The process was moving, but the customer's problem was not being resolved.
 

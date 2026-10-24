@@ -11,17 +11,17 @@ I encountered this in a project where a customer's request did not immediately m
 
 The customer was evaluating a high-power testing system and added two requirements as the project developed.
 
-The first requirement was **ramp control**. The customer wanted to define start and end points and a ramp rate for both charge and discharge. Their preferred mode was **Constant Power**, but they also asked whether the same behavior could be achieved in **Constant Current mode** if Constant Power ramping was not supported.
+The first requirement was ramp control. The customer wanted to define start and end points and a ramp rate for both charge and discharge. Their preferred mode was Constant Power, but they also asked whether the same behavior could be achieved in Constant Current mode if Constant Power ramping was not supported.
 
 The second requirement was:
 
-**“arbitrary load profile, with high time resolution”**
+“arbitrary load profile, with high time resolution”
 
 The customer wanted to define the exact shape of a load profile to simulate a real application load. Power mode was preferred, although current mode would also be useful, and both charge and discharge were required.
 
 Importantly, the customer connected the two requirements themselves: if an arbitrary load profile was possible, they could define the ramp within that profile and use it instead of a dedicated constant-power ramp function.
 
-**The equipment needed to follow a user-defined current or power curve over time.**
+The equipment needed to follow a user-defined current or power curve over time.
 
 ## **What Did “Profile” Mean in Our Product?**
 
@@ -33,7 +33,7 @@ His response was essentially:
 
 “I'm not sure what the customer means by ‘profile.’ My understanding would be a step file.”
 
-The customer had described the application clearly, but **“Arbitrary Load Profile” was not the name of a function we used internally**.
+The customer had described the application clearly, but “Arbitrary Load Profile” was not the name of a function we used internally.
 
 Instead of continuing to discuss the word “profile,” I described the behavior more concretely:
 
@@ -44,24 +44,24 @@ Instead of continuing to discuss the word “profile,” I described the behavio
 
 In other words, the customer wanted to import a time-power curve and have the equipment operate according to that curve.
 
-I then asked whether this corresponded to our **Simulation** function.
+I then asked whether this corresponded to our Simulation function.
 
 The engineer confirmed that it did.
 
 The mapping was now clear:
 
-**Arbitrary Load Profile**  
+Arbitrary Load Profile  
 → user-defined current or power curve over time  
 → execution of that curve to simulate a real load  
-→ **Simulation**
+→ Simulation
 
 ## **Mapping the Name Was Only the First Step**
 
-Identifying Simulation was not enough, because the customer had also specified **high time resolution**.
+Identifying Simulation was not enough, because the customer had also specified high time resolution.
 
-I therefore checked another practical boundary: could the Simulation profile execute at **50 ms intervals**?
+I therefore checked another practical boundary: could the Simulation profile execute at 50 ms intervals?
 
-After confirming this internally, the answer was yes for the **100 Hz systems** we were discussing.
+After confirming this internally, the answer was yes for the 100 Hz systems we were discussing.
 
 The relevant Simulation capability also supported:
 
@@ -73,9 +73,9 @@ The relevant Simulation capability also supported:
 
 I could then give the customer a more precise answer.
 
-Voltage and current ramping were supported, while a dedicated **Constant Power Ramp** function was not.
+Voltage and current ramping were supported, while a dedicated Constant Power Ramp function was not.
 
-For the arbitrary load profile requirement, however, **Simulation** could import a custom current or power profile and execute the defined curve. For the 100 Hz systems under discussion, the profile could use a minimum interval of 50 ms.
+For the arbitrary load profile requirement, however, Simulation could import a custom current or power profile and execute the defined curve. For the 100 Hz systems under discussion, the profile could use a minimum interval of 50 ms.
 
 Because the customer had already said that a custom profile could be used to define the ramp itself, Simulation could also provide an alternative way to achieve that application goal.
 
@@ -85,7 +85,7 @@ This case changed how I think about requirement matching in technical sales.
 
 Sometimes the customer has already explained the application well. The missing step is not another round of customer questioning. It is translating that application into the product's own capability structure.
 
-**Customer Language → Application Behavior → Product Capability**
+Customer Language → Application Behavior → Product Capability
 
 A missing feature name does not necessarily mean the customer's intended behavior is unsupported.
 

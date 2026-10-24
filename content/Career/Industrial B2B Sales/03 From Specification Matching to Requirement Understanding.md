@@ -19,11 +19,11 @@ I went back to the datasheet.
 
 The system specified:
 
-· **Current Response Time: ≤5 ms** 
+· Current Response Time: ≤5 ms 
 
-· **Current Conversion Time: ≤10 ms** 
+· Current Conversion Time: ≤10 ms 
 
-· **Minimum Step Time: 100 ms** 
+· Minimum Step Time: 100 ms 
 
 The 100 ms minimum step time immediately stood out.
 
@@ -43,7 +43,7 @@ So the gap between <10 ms and 100 ms was a strong warning sign, but I was not ye
 
 I first explained the relevant specifications to the customer:
 
-“Our system supports fast current response (≤5 ms) and current conversion ≤10 ms. The standard programmed step time is 100 ms.”
+“Our system supports fast current response ≤5 ms and current conversion ≤10 ms. The standard programmed step time is 100 ms.”
 
 Then I asked whether their <10 ms requirement referred to very short steps or pulses, or mainly to fast transient response.
 
@@ -59,7 +59,7 @@ Then they added another number:
 
 Now I knew more about the application, but the picture was not yet complete.
 
-The customer had originally asked for **<10 ms**, and was now describing a normal profile step time of **20 ms**.
+The customer had originally asked for <10 ms, and was now describing a normal profile step time of 20 ms.
 
 More importantly, I still needed to understand what that 20 ms represented.
 
@@ -81,11 +81,11 @@ The customer also asked whether a cycler with a standard programmed step time of
 
 That clarification finally gave the numbers a clear place in the application:
 
-**20 ms** described the time steps used in the customer's current profiles.
+20 ms described the time steps used in the customer's current profiles.
 
-**<10 ms** was the step-time capability they were asking for in the new system.
+<10 ms was the step-time capability they were asking for in the new system.
 
-**100 ms** was the minimum programmed step time of our standard system.
+100 ms was the minimum programmed step time of our standard system.
 
 I could now connect the product specification to the way the customer actually defined and ran their profiles.
 
@@ -93,7 +93,7 @@ I could now connect the product specification to the way the customer actually d
 
 There was still another distinction that mattered.
 
-Our system's **≤5 ms current response time** looked fast enough to be relevant to a highly dynamic test. But it did not remove the **100 ms minimum programmed step time**.
+Our system's ≤5 ms current response time looked fast enough to be relevant to a highly dynamic test. But it did not remove the 100 ms minimum programmed step time.
 
 A system can respond quickly to a change in current without being able to execute a newly programmed step at the same interval.
 
@@ -111,11 +111,11 @@ What stayed with me from this project was that my final answer was almost the sa
 
 At the beginning:
 
-**<10 ms required vs. 100 ms minimum — probably no.**
+<10 ms required vs. 100 ms minimum — probably no.
 
 At the end:
 
-**20 ms step-defined profiles, a <10 ms target, and a 100 ms minimum programmed step time — no.**
+20 ms step-defined profiles, a <10 ms target, and a 100 ms minimum programmed step time — no.
 
 The product had not changed. The conclusion had not changed.
 
@@ -133,10 +133,10 @@ Deeper requirement understanding does not always reveal a hidden solution.
 
 Sometimes the value is simply turning:
 
-**“The specifications look incompatible.”**
+“The specifications look incompatible.”
 
 into:
 
-**“I understand why this application is outside the product boundary.”**
+“I understand why this application is outside the product boundary.”
 
 In technical B2B sales, a reliable “no” requires understanding too.

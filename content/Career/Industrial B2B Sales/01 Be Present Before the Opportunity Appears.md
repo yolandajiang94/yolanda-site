@@ -25,7 +25,7 @@ But as my database grew, I realized that constantly adding new contacts was not 
 
 I needed to answer a different question:
 
-**Which customers are genuinely relevant enough to be worth contacting again?**
+Which customers are genuinely relevant enough to be worth contacting again?
 
 In the academic market, I screened research groups based on their research direction and potential applications, focusing on areas such as battery technology, electrochemistry, energy materials, and energy storage.
 
@@ -79,7 +79,7 @@ Looking back at those three contacts, what interests me most is not that “the 
 
 It is a more basic question:
 
-**What did the first two non-responses actually mean?**
+What did the first two non-responses actually mean?
 
 The truth is, I do not know.
 
@@ -121,7 +121,7 @@ I did not change the customer's decision through a brilliant negotiation. I did 
 
 What I did was much more ordinary:
 
-**Screen. Record. Reach out. Receive no response. Show up again later.**
+Screen. Record. Reach out. Receive no response. Show up again later.
 
 This is basic proactive sales work. Much of the time, there is no visible result on the day the work is done.
 

@@ -5,7 +5,7 @@ _Why solving a customer problem sometimes starts with deciding whether the probl
 
 For many years in industrial B2B sales, I had a simple instinct when a customer reported a problem:
 
-**If the customer has a problem, I should help solve it.**
+If the customer has a problem, I should help solve it.
 
 If I could not answer a technical question myself, I would go to after-sales or R&D. If the first explanation did not fully answer the customer's concern, I would keep asking. As long as the customer still had a question, I felt the issue was not finished.
 
@@ -19,7 +19,7 @@ A research customer was using eight units of the same equipment. Two of them app
 
 The customer had been testing at 2 μA and 4 μA. Her question was compelling:
 
-**If all eight units were the same model, why did only these two behave differently?**
+If all eight units were the same model, why did only these two behave differently?
 
 My first reaction was similar to hers. I worried that the two units might indeed have a problem, so I went to after-sales and R&D for an explanation.
 
@@ -31,13 +31,13 @@ Then I went back to the product specifications.
 
 The lowest current range was:
 
-**5 μA–1 mA.**
+5 μA–1 mA.
 
 The 2 μA and 4 μA tests were already below that range. This was not a limitation introduced after the problem appeared; the range had been clearly provided during the quotation stage.
 
-At the same time, although the customer reported that two units behaved abnormally while the other six did not, **we did not yet have the raw test data behind that comparison.**
+At the same time, although the customer reported that two units behaved abnormally while the other six did not, we did not yet have the raw test data behind that comparison.
 
-Her concern was real. But with the tests already outside the specified range and without the underlying data for comparison, the conclusion — **these two units are faulty** — was not yet supported by the evidence we had.
+Her concern was real. But with the tests already outside the specified range and without the underlying data for comparison, the conclusion — these two units are faulty — was not yet supported by the evidence we had.
 
 ## **The Hard Part Was Stopping**
 
@@ -49,13 +49,13 @@ But at the time, stopping there was surprisingly difficult for me.
 
 The customer's original question was still unanswered:
 
-**Why did only two of eight identical units behave differently?**
+Why did only two of eight identical units behave differently?
 
 My old instinct was to keep going back to R&D until someone could explain that difference, even if it occurred outside the specified range.
 
 For years, I had associated this persistence with being responsible to the customer.
 
-This time, however, I began to see another responsibility: **before continuing an investigation, I needed to be clear about what the available evidence actually supported.**
+This time, however, I began to see another responsibility: before continuing an investigation, I needed to be clear about what the available evidence actually supported.
 
 I eventually wrote back to the customer, explaining that the lowest current range was 5 μA–1 mA, as stated in the earlier quotation, and that the 2 μA test was below that range. I asked her to test again within the specified range rather than continuing to seek an explanation for the behavior at 2 μA.
 
@@ -73,11 +73,11 @@ The customer did not express any frustration with my response.
 
 She tested again.
 
-This time, she still observed abnormal behavior at **5 μA, 6 μA, and 7 μA** — within the specified range. More importantly, for the first time, she provided the raw test data exported from the system, which gave R&D actual data to analyze.
+This time, she still observed abnormal behavior at 5 μA, 6 μA, and 7 μA — within the specified range. More importantly, for the first time, she provided the raw test data exported from the system, which gave R&D actual data to analyze.
 
 Now the situation was different. The abnormal behavior was within the specified range, and there was actual data to support further investigation.
 
-**The problem had become something we could investigate further.**
+The problem had become something we could investigate further.
 
 So we reopened it and continued the technical analysis.
 

@@ -7,6 +7,8 @@ As I spent more time working, I could feel that I understood customers better th
 
 But knowing that reflection matters and actually taking the time to understand experience are two different things.
 
+## **Stepping Outside the Flow of Daily Work**
+
 In daily work, there is always something more immediate to deal with. Customers need replies. Projects need to move forward. Orders need follow-up. Problems need to be solved.
 
 Once one thing is finished, the next one is already waiting.
@@ -14,10 +16,6 @@ Once one thing is finished, the next one is already waiting.
 So for a long time, much of my experience accumulated in a simple way:
 
 Something happened. I dealt with it. Then I moved on.
-
-## **Stepping Outside the Flow of Daily Work**
-
-For a long time, I was mostly focused on keeping daily work moving. I rarely stopped to look back at what had already happened.
 
 But over the past year, as my work became less intense, I had more time and space to look back and understand my past experience differently.
 

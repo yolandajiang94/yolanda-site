@@ -105,7 +105,7 @@ Now in Dongguan, I more often take taxis for everyday trips around the area wher
 
 Exploring everyday life has also become part of my routine.
 
-Visiting a nearby park, running along the river, discovering a café in an unfamiliar neighbourhood, trying a restaurant I've been wanting to visit, or buying myself a favourite hot drink before finishing work on a Friday — these ordinary little things have gradually become part of my daily life.
+Taking walks along the river, wandering through nearby streets and looking at small shops and street stalls, making special trips to try restaurants I've discovered on Xiaohongshu or Dianping, exploring new cafés or returning to familiar favourites, and treating myself to a milk tea on Friday afternoons — these ordinary little things have gradually become part of my daily life.
 
 I hope work and life can continue alongside each other in this way, with a steady daily routine and enough time to explore the world beyond my immediate surroundings.
 

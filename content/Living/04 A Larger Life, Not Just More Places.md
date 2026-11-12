@@ -3,9 +3,9 @@ date: 2026-11-08
 ---
 For a long time, everyday life and exploring the world seemed like two separate things to me.
 
-## **Eight Years in Bailong, Shenzhen**
+## **Eight Years in Baishilong, Shenzhen**
 
-I lived in Bailong, Shenzhen, for eight years. I didn't have a full two-day weekend every week. Between work and everyday household chores, such as grocery shopping, cooking, cleaning, and washing dishes, there wasn't always much time or energy left to explore the city.
+I lived in Baishilong, Shenzhen, for eight years. I didn't have a full two-day weekend every week. Between work and everyday household chores, such as grocery shopping, cooking, cleaning, and washing dishes, there wasn't always much time or energy left to explore the city.
 
 That doesn't mean I never travelled or enjoyed outdoor activities. I had been to quite a few well-known hiking routes, including Dongchong-Xichong in Shenzhen, Dà Nán Shan in Huizhou, Luofu Mountain, the MacLehose Trail in Hong Kong, and Po Pin Chau.
 

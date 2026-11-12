@@ -1,3 +1,6 @@
+---
+date: 2026-11-08
+---
 For a long time, everyday life and exploring the world seemed like two separate things to me.
 
 ## **Eight Years in Bailong, Shenzhen**

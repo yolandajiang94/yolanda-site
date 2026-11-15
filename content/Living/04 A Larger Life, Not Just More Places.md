@@ -39,6 +39,10 @@ During those three days, I felt as though I had blended into the local rhythm of
 
 ### **Late May 2026 | Xinjiang**
 
+
+<img src="/images/tea-by-the-yellow-river.jpg" alt="Tea by the Yellow River in Lanzhou" width="800">
+
+
 In late May, I travelled to Xinjiang with a close friend. We first met up in Lanzhou before flying to Urumqi.
 
 After arriving in Lanzhou, I went to a Lanzhou noodle restaurant for lunch. We had agreed on a meeting point, and since I arrived early, I still had plenty of time before we were due to meet. So I sat outside the restaurant, scrolling through my phone.
@@ -66,6 +70,9 @@ Those last two days were particularly enjoyable. I went out for meals alone, too
 I've even started looking forward to visiting Xinjiang again on my own next year.
 
 ### **Late September 2026 | Jingzhou**
+
+<img src="/images/jingzhou-malatang.jpg" alt="Traditional Jingzhou-style malatang" width="800">
+
 
 With only three working days between the Mid-Autumn Festival and National Day holidays, I took a few days off and returned to Hubei early. During the break, I went to Jingzhou to visit a friend.
 

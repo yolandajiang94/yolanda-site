@@ -1,7 +1,7 @@
 ---
 date: 2026-11-15
 ---
-For a long time, everyday life and exploring the world seemed like two separate things to me.
+For a long time, everyday life and exploring the world around me seemed like two separate things.
 
 ## **Eight Years in Baishilong, Shenzhen**
 
@@ -13,9 +13,9 @@ I even found some of these hikes not challenging enough, so I signed up for the 
 
 Unlike a regular hike, it was a timed challenge, with different medals awarded depending on how quickly participants completed the route. We started at 10 a.m. and kept moving, often jogging rather than walking, until 6 p.m., crossing more than 30 mountain peaks along the way.
 
-I went to Dapeng and Jiao Diaosha Beach in Shenzhen, visited Double Moon Bay in Huizhou to enjoy the sea, went shopping and watched the night views in Hong Kong, visited Disneyland, and travelled to Guangzhou to try its local food.
+I went to Dapeng and Judiaosha Beach in Shenzhen, visited Double Moon Bay in Huizhou to enjoy the sea, went shopping and watched the night views in Hong Kong, visited Disneyland, and travelled to Guangzhou to try its local food.
 
-Perhaps the difference was that my everyday life itself remained quite fixed. Back then, I felt that I needed a special landscape or a particularly memorable outing to really feel that I was experiencing life. Everyday life and these special experiences seemed to exist as two separate things, almost as if there were nothing in between.
+The difference was that my everyday life itself remained quite fixed. Back then, I felt that I needed a special landscape or a particularly memorable outing to really feel that I was experiencing life. Everyday life and these special experiences seemed to exist as two separate things, almost as if there were nothing in between.
 
 ## **A Few Trips Over the Past Year**
 
@@ -103,7 +103,7 @@ In the evening, I went to a nearby old street to look for something to eat.
 
 When I lived in Shenzhen, I mostly got around by metro. I would enter one station and emerge from another near my destination, with much of the journey taking place underground. The streets and neighbourhoods in between were often outside my view.
 
-Now in Dongguan, I more often take taxis for everyday trips around the area where I live and work. Even on familiar routes, I enjoy looking out at the buildings, shops, roads, and factory areas along the way. I find myself paying attention to these everyday street scenes, even when I'm simply travelling somewhere I've been many times before.
+Now in Dongguan, I mostly get around by taxi. Even when I take the same familiar routes time and again, I still enjoy looking out of the window at the shops, buildings, roads, and factory areas along the way.
 
 ## **Letting Life Continue to Unfold**
 
@@ -111,6 +111,6 @@ Exploring everyday life has also become part of my routine.
 
 Taking walks along the river, wandering through nearby streets and looking at small shops and street stalls, making special trips to try restaurants I've discovered on Xiaohongshu or Dianping, exploring new cafés or returning to familiar favourites, and treating myself to a milk tea on Friday afternoons — these ordinary little things have gradually become part of my daily life.
 
-I hope work and life can continue alongside each other in this way, with a steady daily routine and enough time to explore the world beyond my immediate surroundings.
+I hope work and life can continue alongside each other in this way, with a steady daily routine and enough time to explore beyond my immediate surroundings.
 
 **Life doesn't have to wait for a special trip to begin.** There are plenty of ordinary days worth experiencing along the way to the next journey.

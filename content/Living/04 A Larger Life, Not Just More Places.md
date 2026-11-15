@@ -1,5 +1,5 @@
 ---
-date: 2026-11-08
+date: 2026-11-15
 ---
 For a long time, everyday life and exploring the world seemed like two separate things to me.
 

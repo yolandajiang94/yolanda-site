@@ -61,9 +61,7 @@ We joined a small tour group of six, travelling with a driver along the route. T
 
 I had set aside about three days in Urumqi in total, before and after the road trip, as I wasn't sure how tiring the journey would be. After returning from the Ili loop, I had two days to explore Urumqi on my own.
 
-I tried the local pilaf and Xinjiang-style fried rice noodles.
-
-Those last two days were particularly enjoyable. I went out for meals alone, took buses and taxis around the city, wandered through different neighbourhoods, looked for food I wanted to try, and visited places I hadn't had time to see earlier.
+I returned to Hetian Second Street and tried a blueberry milk-skin cake with a rich, dense texture. I also went back to a long-established rice noodle restaurant to try the rice noodles tossed with chicken, recommended by a young woman we had met there. I preferred them to the stir-fried version — less sauce, but full of flavour. At a small restaurant inside a local market, surrounded by residents chatting in their own language, I enjoyed some delicious pilaf. Before heading to the airport, I picked up a cheese-filled bun packed with nuts and dried fruit from a local dairy shop. I left Urumqi feeling very satisfied.
 
 I've even started looking forward to visiting Xinjiang again on my own next year.
 

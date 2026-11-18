@@ -7,10 +7,6 @@ A customer may have a real need, but the purchasing timeline can remain uncertai
 
 One project I worked on with an overseas research organization lasted from early discussions in March until the formal procurement stage near the end of the year.
 
-Looking back, I would not describe it as a project won through sophisticated sales techniques. The customer already had a real need, and part of the opportunity was simply being connected to the right research group when that need appeared.
-
-What mattered was something more ordinary: staying with the opportunity, checking rather than assuming, keeping in touch without pushing, and adjusting my judgment when new information emerged.
-
 ## **Staying With an Opportunity Without a Clear Timeline**
 
 The project started in March, when a researcher contacted me for a quotation on technical equipment.

@@ -21,197 +21,69 @@ I thought that was simply the nature of sales.
 
 ## **Why I Placed So Much Value on Experience**
 
-This belief came from my actual working environment.
+This belief came from my actual working environment. I spent years learning sales through practice rather than through a complete customer development system. I learned how to search for companies, evaluate contacts, write emails, follow up, and solve customer problems through experience.
 
-I spent years learning sales through practice rather than through a complete customer development system.
+Experience is valuable, but for a long time, I equated relying on experience with being unable to systemize the work. If every customer, market, and salesperson was different, then sales seemed naturally dependent on individual ability.
 
-I learned how to search for companies, evaluate contacts, write emails, follow up, and solve customer problems through experience.
+Looking back, I realized there was another reason I held onto this belief. If sales relied heavily on personal experience and individual ability, then the salesperson themselves became the source of that value. The longer I worked, the more I felt my value came from the experience and knowledge that others could not easily reproduce.
 
-Experience is valuable.
-
-But for a long time, I connected two ideas together:
-
-Relying on experience.
-
-And being unable to systemize the work.
-
-If every customer, market, and salesperson is different, then sales seems naturally dependent on individual ability.
-
-Looking back, I realized there was another reason I held onto this belief.
-
-If sales relied heavily on personal experience and individual ability, then the salesperson themselves became the source of that value.
-
-The longer I worked, the more I felt my value came from the experience and knowledge that others could not easily reproduce.
-
-So when I started realizing customer development could be broken down, recorded, measured, and reviewed, my first reaction was not excitement.
-
-Part of me resisted it.
+So when I started realizing that customer development could be broken down, recorded, measured, and reviewed, my first reaction was not excitement. Part of me resisted it.
 
 **If this work could actually be systemized, had I been doing it the hard way all those years?**
 
-Accepting that a familiar way of working could be improved also meant accepting something important:
-
-Some inefficiency I considered part of the industry was not inevitable.
+Accepting that a familiar way of working could be improved also meant accepting that some of the inefficiency I had considered part of the industry was not inevitable.
 
 ## **Breaking Customer Development Into a Visible Process**
 
-The change did not happen overnight.
+The change did not happen overnight. During my final year at my previous company, I had more time to look back at how I worked and started breaking customer development into smaller parts.
 
-During my final year at my previous company, I had more time to look back at how I worked.
+At first, I did not know exactly what should be recorded. Searching for companies, evaluating them, finding contacts, sending outreach, and following up were all activities I was already carrying out, but they were mixed together.
 
-I started breaking customer development into smaller parts.
+Over more than half a year, I gradually designed and adjusted my own way of tracking the process while continuing my actual sales work. Some methods were abandoned because they were not useful, some activities needed to be separated, and some previously invisible steps became clearer.
 
-At first, I did not know exactly what should be recorded.
+Eventually, customer development stopped feeling like one large undefined task and became a workflow. This was not because the process had become predictable, but because it had become visible.
 
-Searching for companies.
+I could start asking better questions: Where am I spending time? Which stage is slowing down? Which direction deserves more attention? What should I continue, and what should I change?
 
-Evaluating them.
-
-Finding contacts.
-
-Sending outreach.
-
-Following up.
-
-These activities were always happening, but they were mixed together.
-
-Over more than half a year, I gradually designed and adjusted my own way of tracking the process while continuing actual sales work.
-
-Some methods were abandoned because they were not useful.
-
-Some activities needed to be separated.
-
-Some previously invisible steps became clearer.
-
-Eventually, customer development stopped feeling like one large undefined task.
-
-It became a workflow.
-
-Not because the process became predictable.
-
-But because it became visible.
-
-I could start asking better questions:
-
-Where am I spending time?
-
-Which stage is slowing down?
-
-Which direction deserves more attention?
-
-What should I continue, and what should I change?
-
-That was the first time I saw that customer development was not just one action.
-
-It was a series of connected decisions.
+That was the first time I saw customer development not as a single action, but as a series of connected decisions.
 
 ## **Bad Numbers Are Still Useful**
 
-I used to think:
+I used to wonder why I should measure results that already looked bad. When there were few replies, few opportunities, and few orders, recording those numbers seemed unnecessary.
 
-If the results already look bad, why measure them?
+Later, I started seeing it differently. Poor results are exactly when measurement becomes useful.
 
-Few replies.
+If many prospects receive outreach but few respond, the questions become more specific: Am I targeting the wrong companies or the wrong contacts? Am I heading in the wrong market direction? Does my approach need adjustment?
 
-Few opportunities.
+Numbers do not provide the answer automatically, but without records, it is difficult to know where to start looking.
 
-Few orders.
-
-Recording those numbers seemed unnecessary.
-
-Later, I started seeing it differently.
-
-Poor results are exactly when measurement becomes useful.
-
-If many prospects receive outreach but few respond, the question becomes more specific:
-
-Am I targeting the wrong companies?
-
-The wrong contacts?
-
-The wrong market direction?
-
-Does my approach need adjustment?
-
-Numbers do not provide the answer automatically.
-
-But without records, it is difficult to know where to start looking.
-
-Previously, my conclusion was often:
-
-“Outbound sales is just difficult.”
-
-Then I continued putting in more time.
+Previously, my conclusion was often, “Outbound sales is just difficult.” Then I continued putting in more time.
 
 Once the process became visible, problems became more concrete.
 
 ## **A New Industry, A Second Test**
 
-When I moved into a new industrial B2B field, I started customer development again.
+When I moved into a new industrial B2B field, I started customer development again. The products and customers had changed, and the market was new. But I was not starting from zero.
 
-The products changed.
+The workflow I had spent months building and adjusting in my previous role gave me a foundation. I could not bring my old customers or market knowledge with me, but I discovered something important: **the way I organize my work can travel with me.**
 
-The customers changed.
+In the new environment, I rebuilt the basic process of company research, screening, contact finding, outreach, and tracking much faster. This was not because the market was easier, but because I had already learned how to structure the work.
 
-The market was new.
-
-But I was not starting from zero.
-
-The workflow I had spent months building and adjusting in my previous role gave me a foundation.
-
-I could not bring my old customers or market knowledge with me.
-
-But I discovered something important:
-
-**The way I organize my work can travel with me.**
-
-In the new environment, I rebuilt the basic process of company research, screening, contact finding, outreach, and tracking much faster.
-
-Not because the market was easier.
-
-Because I had already learned how to structure the work.
-
-This first month was only a small test.
-
-It does not prove what sales results this approach will eventually create.
-
-The outcome is still uncertain.
-
-But the process is clearer.
+This first month was only a small test. It does not prove what sales results this approach will eventually create. The outcome is still uncertain, but the process is clearer.
 
 ## **Unpredictable Outcomes Do Not Mean an Unmanageable Process**
 
-I still do not believe sales can be completely systemized.
+I still do not believe sales can be completely systemized. Especially in industrial B2B sales, many factors remain outside a salesperson's control: customer timing, budget decisions, technical requirements, procurement changes, and competition. A pipeline does not remove these uncertainties.
 
-Especially in industrial B2B sales, many factors remain outside a salesperson's control.
-
-Customer timing.
-
-Budget decisions.
-
-Technical requirements.
-
-Procurement changes.
-
-Competition.
-
-A pipeline does not remove these uncertainties.
-
-But for years, I had confused two different things:
-
-Because the outcome was unpredictable, I assumed the process could not be managed.
+But for years, I had confused two different things: because the outcome was unpredictable, I assumed the process could not be managed.
 
 Now I see them separately.
 
-I cannot make sales predictable.
-
-But I can make my work process clearer.
+I cannot make sales predictable, but I can make my work process clearer.
 
 This does not replace experience. It gives experience a better structure.
 
-After many years in sales, I am slowly letting go of one explanation I used to believe:
-
-“That is just how this work is.”
+After many years in sales, I am slowly letting go of one explanation I used to believe: “That is just how this work is.”
 
 Some uncertainty is part of sales.
 

@@ -1,45 +1,25 @@
 ---
 date: 2026-09-12
 ---
-After years in overseas B2B sales, I gradually developed a strong belief:
+After years in overseas B2B sales, I gradually developed a strong belief: outbound sales development was difficult to systemize.
 
-Outbound sales development was difficult to systemize.
+## **How I Used to Understand Sales Development**
 
-When searching for customers across global markets, too many things seemed unpredictable.
+When searching for customers across global markets, too many things seemed unpredictable. Finding the right company did not mean it had a current project, and finding the right contact did not mean they would reply. Even after months of prospecting, I could not tell where the next opportunity would come from.
 
-You may find the right company but not know whether it has a current project.
+Because of this, I questioned the value of measurement. If many emails resulted in only a few replies, what could those numbers really tell me? If opportunities appeared irregularly, why build a sales funnel around them?
 
-You may find the right contact but not know whether they will reply.
+For a long time, I believed structured sales systems were better suited to teams with large volumes of leads and data than to individual salespeople doing industrial B2B prospecting.
 
-You may spend months developing a market without knowing where the next opportunity will come from.
+My understanding of the work was simple: find companies, find contacts, send emails, follow up, and work seriously on real opportunities when they appeared.
 
-Because of this, I used to question the value of measurement.
+Every salesperson seemed to have their own way of developing business. Some were good at email outreach, some at cold calling, and others at trade shows or customer visits. Everyone played to their own strengths.
 
-If many emails resulted in only a few replies, what could those numbers really tell me?
-
-If opportunities appeared irregularly, why build a sales funnel around them?
-
-For a long time, I believed structured sales systems worked better for teams with large amounts of leads and data, but were less suitable for individual salespeople doing industrial B2B prospecting.
-
-For years, my understanding of the work was simple:
-
-Find companies.
-
-Find contacts.
-
-Send emails.
-
-Follow up.
-
-When a real opportunity appears, work on it seriously.
-
-Every salesperson seemed to have their own way. Some were good at email outreach, some at cold calling, and others at trade shows or customer visits. Everyone developed business in their own way, largely relying on personal experience and individual strengths.
-
-Over time, experience accumulated. You gradually learned which customers were worth pursuing and which opportunities deserved more attention.
+Over time, you learned which customers were worth pursuing and which opportunities deserved more attention.
 
 I thought that was simply the nature of sales.
 
-## **Why I Believed Experience Was Everything**
+## **Why I Placed So Much Value on Experience**
 
 This belief came from my actual working environment.
 

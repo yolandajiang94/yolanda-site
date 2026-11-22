@@ -55,9 +55,7 @@ I was always responding, always solving, always trying to make everything comple
 
 But I had less and less space to think.
 
-And for a sales engineer, thinking is not a luxury.
-
-It is part of the job.
+And for a sales engineer, thinking is not a luxury. It is part of the job.
 
 Understanding customer needs, identifying the real problem, evaluating priorities, and making decisions are what create long-term value.
 
@@ -95,11 +93,7 @@ There is a difference between these two mindsets:
 
 This has been one of the most important lessons in my career.
 
-My carefulness and patience are still valuable.
-
-I do not want to lose these qualities.
-
-They helped me build trust with customers and become someone others can rely on.
+My carefulness and patience are still valuable. I do not want to lose these qualities. They helped me build trust with customers and become someone others can rely on.
 
 But I no longer want these qualities to control the way I work.
 

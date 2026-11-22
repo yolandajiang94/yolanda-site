@@ -1,7 +1,6 @@
 ---
 date: 2026-07-12
 ---
-
 For many years, I believed that my greatest strengths at work were being careful, patient, and willing to take responsibility.
 
 I was proud of these qualities.
@@ -20,11 +19,7 @@ Early in my career, my careful and responsible nature helped me a lot.
 
 In my first job, I worked as a sales assistant to a key account director, helping her manage major customers, orders, quotations, and internal coordination. I was extremely detail-oriented and willing to handle complicated tasks. I could spend a lot of time organizing information, following up on details, and making sure nothing was missed.
 
-I did not mind working late.
-
-I did not mind taking on extra tasks.
-
-At that stage, this mindset helped me build trust with colleagues and customers.
+I did not mind working late or taking on extra tasks. At that stage, this mindset helped me build trust with colleagues and customers.
 
 So I gradually formed a belief:
 
@@ -32,11 +27,7 @@ So I gradually formed a belief:
 
 Later, when I moved into a sales role and started managing customers myself, this belief continued.
 
-When customers had questions, I wanted to provide complete answers.
-
-When problems appeared, I wanted to solve them thoroughly.
-
-When customers needed support, I wanted them to feel that I was reliable.
+When customers had questions, I wanted to provide complete answers. When problems appeared, I wanted to solve them thoroughly. When customers needed support, I wanted them to feel that I was reliable.
 
 At that time, I even considered complex after-sales situations as opportunities to demonstrate my responsibility.
 
@@ -54,13 +45,9 @@ Over time, I realized that responsibility without prioritization can become a bu
 
 In sales, different situations require different levels of attention and different approaches.
 
-Some issues need immediate action, while others simply need a clear and timely response.
+Some issues need immediate action, while others simply need a clear and timely response. Some decisions have a major impact on a project, while others are relatively straightforward. 
 
-Some decisions have a major impact on a project, while others are relatively straightforward.
-
-But for a long time, I approached almost everything with the same level of intensity.
-
-A small issue could receive the same amount of mental energy as a major project.
+But for a long time, I approached almost everything with the same level of intensity. A small issue could receive the same amount of mental energy as a major project.
 
 I was often spending more time and attention on details than they truly deserved.
 
@@ -98,11 +85,9 @@ This does not mean becoming less responsible.
 
 It means becoming responsible in a more effective way.
 
-There is a difference between:
+There is a difference between these two mindsets:
 
 “I will handle everything because I want to prove my value.”
-
-and:
 
 “I will focus on the things that truly matter because I understand where my value is.”
 
@@ -126,10 +111,6 @@ The more experience I gain, the more I realize that a strong professional is not
 
 They are defined by how well they can judge, prioritize, and create meaningful results.
 
-I am still learning this.
-
-But I am gradually moving from being someone who tries to handle everything carefully,
-
-to someone who understands what truly deserves my attention.
+I am still learning this. But I am gradually moving from being someone who tries to handle everything carefully to someone who understands what truly deserves my attention.
 
 That is how I am redefining my value at work.
